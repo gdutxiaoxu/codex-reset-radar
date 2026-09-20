@@ -1,122 +1,114 @@
 # Codex Reset Radar
 
-> 跟踪 Codex Reset 公开信号、历史记录、Reset 状态与预测，并为开发者提供开放数据。
+> **Codex 今天 Reset 了吗？下一次什么时候可能 Reset？**
 
-**Codex Reset Radar** 是一个独立的 Codex Reset 跟踪项目，面向关注 **Codex Reset、Codex Reset Time、Codex Usage Limit、Codex Quota、Codex Reset History** 的用户与开发者。
+Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Reset Signal、历史记录和下一次 Reset Forecast**，并逐步提供开放 JSON 数据，方便用户查看，也方便开发者构建自己的提醒、Bot、Extension 和 Dashboard。
 
-项目会持续整理已经确认发生的 Reset、公开 Reset Signal、历史记录与 Forecast，并逐步提供机器可读的开放数据。
-
-🌐 **实时网站**：https://codex-reset.aiplanwatch.com/
+🌐 **实时 Radar**：https://codex-reset.aiplanwatch.com/
 
 📱 **微信小程序**：微信搜索 **徐公 AI 雷达**
 
-> Codex Reset Radar 是独立社区项目，与 OpenAI 没有官方隶属或合作关系。Forecast 不是 OpenAI 官方公布的 Reset 时间。
+> 独立社区项目，与 OpenAI 没有官方隶属或合作关系。Forecast 不是 OpenAI 官方公布的 Reset 时间。
 
 ---
 
-## 当前 Codex Reset 状态
+## Codex 今天 Reset 了吗？
 
-<!-- RESET_STATUS_START -->
+<!-- LIVE_STATUS_START -->
 
-> 当前区域后续将由数据同步脚本自动更新。
+> **GitHub 状态快照：2026-09-20**  
+> 当前 GitHub 自动同步尚未上线，实时状态请以 [Codex Reset Radar](https://codex-reset.aiplanwatch.com/) 为准。
 
-| 项目 | 状态 |
-| --- | --- |
-| Last Verified Reset | 待自动同步 |
-| Reset Type | 待自动同步 |
-| Current Status | Monitoring |
-| Latest Public Signal | 待自动同步 |
-| 24h Forecast | 待自动同步 |
-| Last Updated | 待自动同步 |
+**今天暂未记录新的 Verified Global Reset。**
 
-<!-- RESET_STATUS_END -->
+- **最近一次已确认 Global Reset**：2026-09-12 08:09 UTC
+- **来源**：Tibo · @thsottiaux
+- **状态**：Verified
+- **当前监控状态**：Monitoring
 
-👉 查看完整 Reset Timeline、历史记录、公开信号与 Forecast：
+<!-- LIVE_STATUS_END -->
 
-https://codex-reset.aiplanwatch.com/
+👉 [查看实时 Codex Reset 状态与原始来源](https://codex-reset.aiplanwatch.com/)
 
 ---
 
-## 这个项目解决什么问题？
+## 下一次 Codex Reset 什么时候？
 
-围绕 Codex 使用额度，用户经常会搜索：
+<!-- FORECAST_START -->
 
-- `codex reset`
-- `codex reset time`
-- `when does codex reset`
-- `codex usage limit`
-- `codex quota reset`
-- `codex reset history`
-- `codex next reset`
+当前网站基于已记录的公开 Global Reset 间隔给出的历史概率：
 
-但这些问题背后其实包含不同类型的信息：
+| 时间窗口 | 累计概率 |
+| --- | ---: |
+| 未来 24 小时 | 50% |
+| 未来 48 小时 | 50% |
+| 未来 72 小时 | 60% |
 
-```text
-Verified Reset
-Public Signal
-Historical Pattern
-Forecast
-Usage Limit / Rule Change
-```
+当前样本基于 **42 个已记录公开 Global Reset 间隔**，其中包含 10 个可比较样本。
 
-Codex Reset Radar 的核心原则是：
+<!-- FORECAST_END -->
 
-> **尽可能把“已经发生的事实”、“公开信号”和“统计预测”分开。**
+> **Forecast ≠ Official Reset Time**  
+> 这些结果用于辅助判断可能的时间窗口，不代表 OpenAI 官方 Reset Schedule。
 
-因此：
+👉 [查看实时 Forecast、图表与方法说明](https://codex-reset.aiplanwatch.com/)
 
-> **Forecast ≠ Official Reset Time**
-
-> **Public Signal ≠ Verified Reset**
-
-如果你想进一步了解 Reset、Global Reset、Banked Reset 以及 Reset Time：
-
-👉 [什么是 Codex Reset？](./docs/what-is-codex-reset.md)
+👉 [了解 Forecast 如何理解](./docs/reset-forecast.md)
 
 ---
 
-## 主要能力
+## 最近有什么 Reset 信号？
 
-### Reset Status
+<!-- LATEST_SIGNALS_START -->
 
-查看最近一次已经确认的 Codex Reset，以及当前监控状态。
+| 日期 | 类型 | 状态 | 摘要 |
+| --- | --- | --- | --- |
+| 2026-09-12 | Global Reset | 🟢 Verified | 已记录公开 Global Reset 完成信号 |
+| 2026-09-05 | Banked Reset | 🟢 Recorded | Banked Reset 公开信号 |
+| 2026-09-04 | Banked Reset | 🟢 Recorded | 部分用户 Banked Reset 公开信号 |
 
-### Reset History
+<!-- LATEST_SIGNALS_END -->
 
-记录 Global Reset、Banked Reset 等不同类型的历史事件。
+这里会明确区分：
 
-👉 [Codex Reset History](./docs/codex-reset-history.md)
+- **Verified Reset**：已经有足够公开证据确认发生
+- **Public Signal**：存在公开信号，但不能证明 Reset 已完成
+- **Forecast**：根据历史数据和公开信息形成的预测
 
-### Reset Forecast
+不会因为一条公开讨论提到 “reset”，就直接把它写成 Verified Reset。
 
-根据历史 Reset 时间、间隔与公开 Signal，展示未来不同时间窗口的参考 Forecast。
-
-👉 [Codex Reset Forecast](./docs/reset-forecast.md)
-
-### Usage Limit Reference
-
-整理 Codex Usage Limit、Weekly Limit、Quota、Reset Window 等规则与历史变化。
-
-👉 [Codex Usage Limits](./docs/codex-usage-limits.md)
-
-### Open Data
-
-项目计划持续提供机器可读的数据，方便开发者构建：
-
-- Reset Tracker
-- Notification Bot
-- Chrome Extension
-- VS Code / Cursor Extension
-- CLI
-- GitHub Badge
-- Dashboard
-- MCP / AI Agent
+👉 [查看完整 Timeline 与原始来源](https://codex-reset.aiplanwatch.com/)
 
 ---
 
-## Open Data
+## Codex Reset Radar 能帮你做什么？
 
-计划提供：
+### 如果你只是想知道“现在发生了什么”
+
+你可以快速查看：
+
+- ✅ Codex 今天有没有新的 Reset
+- ✅ 最近一次 Global Reset 是什么时候
+- ✅ 下一次 Reset 的 24h / 48h / 72h Forecast
+- ✅ 最近有哪些 Tibo / Public Reset Signals
+- ✅ Global Reset 与 Banked Reset 历史
+- ✅ Codex Usage Limit / Reset Window 相关规则
+
+最简单的使用方式：
+
+🌐 https://codex-reset.aiplanwatch.com/
+
+### 如果你习惯用微信
+
+微信搜索：
+
+**徐公 AI 雷达**
+
+适合移动端快速查看 Reset 状态、历史、预测、提醒和相关指南。
+
+### 如果你是开发者
+
+本仓库会逐步提供机器可读的开放数据：
 
 ```text
 data/
@@ -126,240 +118,146 @@ data/
 └── forecast.json
 ```
 
-### latest.json
+未来可用于构建：
 
-用于读取当前最新状态，适合 Dashboard、Bot、Extension、CLI 和 Widget。
-
-### resets.json
-
-用于读取 Codex Reset History、构建 Timeline、统计 Reset Interval。
-
-### signals.json
-
-用于保存公开 Reset Signal，并与 Verified Reset 分开。
-
-### forecast.json
-
-用于提供未来 24h / 48h / 72h 等时间窗口的参考 Forecast。
-
-> Open Data 仍在建设中；未实际创建的数据文件不会在 README 中宣称已经可用。
+- Codex Reset Notification Bot
+- Chrome Extension
+- VS Code / Cursor Extension
+- CLI
+- GitHub Badge
+- Status Dashboard
+- Telegram / Discord / Slack Bot
+- MCP / AI Agent
 
 ---
 
-## Documentation
+## 我应该怎么使用？
 
-| 文档 | 主要内容 |
+| 你的需求 | 推荐入口 |
 | --- | --- |
-| [什么是 Codex Reset？](./docs/what-is-codex-reset.md) | Reset、Reset Time、Global Reset、Banked Reset、Verified / Signal / Forecast |
-| [Codex Reset History](./docs/codex-reset-history.md) | 历史 Reset、事件字段、Timeline 与历史修正 |
-| [Codex Usage Limits](./docs/codex-usage-limits.md) | Usage Limit、Weekly Limit、Quota、Reset Window |
-| [Codex Reset Forecast](./docs/reset-forecast.md) | 下一次 Reset Forecast、24h / 48h / 72h 与限制 |
-| [Methodology](./docs/methodology.md) | 事件分类、验证、去重、修正与数据同步方法 |
-| [Data Sources](./docs/data-sources.md) | 官方来源、公开 Signal、社区来源与引用策略 |
+| 看今天是否 Reset | [Live Radar](https://codex-reset.aiplanwatch.com/) |
+| 看下一次 Reset Forecast | [Live Forecast](https://codex-reset.aiplanwatch.com/) |
+| 看历史 Reset / Banked Reset | [Reset History](./docs/codex-reset-history.md) |
+| 了解 Codex Reset 是什么 | [What is Codex Reset](./docs/what-is-codex-reset.md) |
+| 了解 Usage Limit / Quota | [Codex Usage Limits](./docs/codex-usage-limits.md) |
+| 微信里查看和接收相关提醒 | 微信搜索 **徐公 AI 雷达** |
+| 获取机器可读数据 | Open Data（建设中） |
+| 了解数据为什么这样分类 | [Methodology](./docs/methodology.md) |
 
-后续 Open Data 稳定后，会再增加：
+---
+
+## Open Data
+
+Codex Reset Radar 不只是一个展示页面，我们希望逐步把 Reset History、Signal 和 Forecast 变成可引用、可复用的数据。
+
+计划提供：
+
+### `data/latest.json`
+
+当前最新的 Reset 状态，适合 Dashboard、Bot、Extension、CLI 和 Widget。
+
+### `data/resets.json`
+
+Global Reset / Banked Reset 历史，适合 Timeline、数据分析和 Reset Interval 统计。
+
+### `data/signals.json`
+
+公开 Reset Signal，并与 Verified Reset 分开。
+
+### `data/forecast.json`
+
+未来 24h / 48h / 72h 等时间窗口的参考 Forecast。
+
+> 这些 JSON 文件尚未正式接入自动同步；未上线前不会把规划中的接口写成已经可用。
+
+---
+
+## 为什么可以相信这些数据？
+
+我们不会把所有 “Reset” 信息混成一种状态。
+
+核心分类：
 
 ```text
-docs/api.md
+Verified Reset
+Public Signal
+Forecast
+Historical
+Unconfirmed
 ```
 
-用于说明 JSON Schema、调用方式与 JavaScript / Python 示例。
+处理原则很简单：
+
+> **事实就是事实，信号就是信号，预测就是预测。**
+
+例如：
+
+- “Reset 已经完成”需要有可验证的公开证据
+- “可能快 Reset”只能算 Public Signal
+- “未来 24h 概率 60%”只能算 Forecast
+- Forecast 不会包装成 OpenAI 官方时间
+
+详细规则：
+
+- [Methodology](./docs/methodology.md)
+- [Data Sources](./docs/data-sources.md)
 
 ---
 
-## 数据与可信度
+## Learn
 
-本项目会尽量把每条信息归入清晰的状态：
+如果你想进一步了解，而不是只看当前状态：
 
-```text
-verified
-public_signal
-forecast
-historical
-unconfirmed
-```
+- [什么是 Codex Reset？什么时候 Reset？](./docs/what-is-codex-reset.md)
+- [Codex Reset History](./docs/codex-reset-history.md)
+- [Codex Usage Limits / Weekly Limit / Quota](./docs/codex-usage-limits.md)
+- [Codex Reset Forecast](./docs/reset-forecast.md)
+- [Methodology](./docs/methodology.md)
+- [Data Sources](./docs/data-sources.md)
 
-我们不会因为一条公开讨论提到 “reset”，就直接把它写成 Verified Reset。
+README 负责回答“现在发生了什么”。
 
-也不会把 Forecast 表述成 OpenAI 官方承诺的 Reset 时间。
-
-详细分类与验证规则：
-
-👉 [Methodology](./docs/methodology.md)
-
-数据来源与引用原则：
-
-👉 [Data Sources](./docs/data-sources.md)
-
----
-
-## 数据更新机制
-
-计划的数据链路：
-
-```text
-Public Sources
-      ↓
-AIPlanWatch Collector
-      ↓
-Parse / Classify / Verify
-      ↓
-Database
-      ↓
-GitHub Exporter
-      ↓
-codex-reset-radar
-```
-
-数据库作为主要数据源，GitHub 作为公开数据镜像。
-
-只有真实业务数据变化时才生成新的 Commit，例如：
-
-- New Global Reset
-- New Banked Reset
-- Verified Status Changed
-- Important Public Signal
-- Historical Data Correction
-- Meaningful Forecast Change
-
-不会因为 `last_checked_at`、Collector heartbeat 等字段不断制造无意义 Commit。
-
----
-
-## Live Codex Reset Radar
-
-如果你只是想快速查看：
-
-- 最近一次 Codex Reset
-- Reset Timeline
-- Reset History
-- 最新 Public Signal
-- 下一次 Reset Forecast
-- 相关来源与方法说明
-
-推荐直接使用网页版：
-
-### 🌐 Codex Reset Radar
-
-https://codex-reset.aiplanwatch.com/
-
----
-
-## 微信小程序：徐公 AI 雷达
-
-国内微信用户可以直接搜索：
-
-### 📱 徐公 AI 雷达
-
-小程序用于移动端查看与 Codex Reset 相关的信息，包括：
-
-- Reset 状态
-- Reset 历史
-- Reset 预测
-- Reset 公开信号
-- Reset 提醒
-- 相关使用指南
-
-如果你正在手机上浏览 GitHub，可以直接打开微信搜索：
-
-**徐公 AI 雷达**
-
-后续仓库会补充小程序二维码资源。
-
----
-
-## Website / GitHub / Mini Program
-
-三个入口承担不同角色：
-
-| 入口 | 适合 |
-| --- | --- |
-| [Codex Reset Radar Website](https://codex-reset.aiplanwatch.com/) | 普通用户、Google Search 用户、Timeline / Forecast |
-| GitHub | 开发者、Open Data、历史数据、Bot / Extension 开发者 |
-| 徐公 AI 雷达 | 国内微信用户、移动端查看、提醒与分享 |
-
-三端会尽量使用一致的数据逻辑与分类标准。
+Docs 负责解释“为什么、怎么算、历史是什么”。
 
 ---
 
 ## Roadmap
 
-- [x] Codex Reset History
-- [x] Reset 状态展示
+当前优先级：
+
+- [x] Live Codex Reset Radar
+- [x] Reset History
+- [x] Global / Banked Reset 区分
 - [x] Reset Forecast
 - [x] Public Reset Signals
-- [x] Web Dashboard
 - [x] 微信小程序入口
-- [x] 文档结构拆分
+- [x] GitHub 文档拆分
 - [ ] Open JSON Data
-- [ ] JSON Schema
 - [ ] GitHub 自动数据同步
-- [ ] README 自动状态更新
-- [ ] Reset Badge
+- [ ] README Live Status 自动更新
+- [ ] Reset Status Badge
 - [ ] ICS Calendar Feed
-- [ ] CLI
 - [ ] Chrome Extension
-- [ ] VS Code / Cursor Extension
+- [ ] CLI / Webhook / MCP
 - [ ] Telegram / Discord Notification
-- [ ] Webhook
-- [ ] MCP Tool
-- [ ] Usage Limit History
-- [ ] Rule Change Log
-
-Roadmap 会根据真实用户需求和数据使用情况调整。
+- [ ] Usage Limit Rule Change Log
 
 ---
 
-## Repository Structure
+## Star / Share
 
-```text
-codex-reset-radar/
-│
-├── README.md
-├── README.zh-CN.md
-│
-├── docs/
-│   ├── what-is-codex-reset.md
-│   ├── codex-reset-history.md
-│   ├── codex-usage-limits.md
-│   ├── reset-forecast.md
-│   ├── methodology.md
-│   └── data-sources.md
-│
-├── data/
-├── schema/
-├── examples/
-└── assets/
-```
+如果你经常会问：
 
----
+> Codex 今天 Reset 了吗？  
+> 下一次什么时候 Reset？
 
-## Contributing
+可以 ⭐ Star 这个仓库，或者直接分享实时页面：
 
-欢迎提交：
+https://codex-reset.aiplanwatch.com/
 
-- Reset 历史修正
-- 数据来源补充
-- 新 Reset Signal
-- Bug Report
-- Usage Limit 规则变化
-- 文档改进
+国内微信用户：
 
-如果提交 Reset 相关数据，请尽量提供公开可验证的来源。
-
-单独的“我的账号好像 Reset 了”可以作为线索，但不会直接成为 Verified Reset。
-
----
-
-## Star
-
-如果这个项目对你有帮助，可以给仓库一个 ⭐ Star。
-
-这能帮助更多正在寻找：
-
-`codex reset` · `codex reset time` · `when does codex reset` · `codex usage limit` · `codex reset history`
-
-的开发者发现这个项目。
+**微信搜索「徐公 AI 雷达」**
 
 ---
 
@@ -367,27 +265,12 @@ codex-reset-radar/
 
 Codex Reset Radar 是独立社区项目。
 
-本项目：
-
 - 不是 OpenAI 官方产品
 - 不代表 OpenAI 发布 Reset 时间
-- 不保证 Forecast 一定发生
-- 不保证 Public Signal 最终一定对应 Reset
-- 不应将预测数据理解为官方承诺
+- Forecast 不是官方 Reset Schedule
+- Public Signal 不等于 Verified Reset
+- Usage Limit、Quota 和 Reset 机制可能随产品规则变化
 
-产品规则、Usage Limit、Quota 和 Reset 机制可能随时变化，涉及具体产品规则时，应优先以相关产品官方最新信息为准。
+涉及具体产品规则时，应优先以相关产品官方最新信息为准。
 
 OpenAI、Codex 及其他相关名称和商标归各自权利人所有。
-
----
-
-## Links
-
-🌐 **Live Codex Reset Radar**  
-https://codex-reset.aiplanwatch.com/
-
-📱 **WeChat Mini Program**  
-微信搜索：**徐公 AI 雷达**
-
-📚 **Documentation**  
-[查看全部文档](./docs/what-is-codex-reset.md)
