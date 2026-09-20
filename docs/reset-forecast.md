@@ -69,28 +69,15 @@ Forecast 可以参考：
 
 ## 24h / 48h / 72h
 
-未来可以通过：
+当前通过：
 
 ```text
 data/forecast.json
 ```
 
-提供机器可读的 Forecast。
+提供机器可读的 Forecast 快照。每个快照包含 `schema_version`、`generated_at`、`status`、`mode`、`horizons` 与必要的免责声明；当没有足够公开依据展示 Forecast 时，`status` 和 `mode` 会明确表示不可用，`horizons` 可以为空。
 
-示例：
-
-```json
-{
-  "generated_at": "2026-09-20T00:00:00Z",
-  "forecast": {
-    "24h": 0.5,
-    "48h": 0.6,
-    "72h": 0.7
-  }
-}
-```
-
-这些值仅表示模型或统计方法给出的参考概率。
+所有值仅表示模型或统计方法给出的参考概率。字段契约、时间语义和兼容规则见 [Open Data JSON 快照](./open-data.md)。
 
 ## Forecast 与 Public Signal 的区别
 

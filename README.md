@@ -2,7 +2,7 @@
 
 > **Codex 今天 Reset 了吗？下一次什么时候可能 Reset？**
 
-Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Reset Signal、历史记录和下一次 Reset Forecast**，并逐步提供开放 JSON 数据，方便用户查看，也方便开发者构建自己的提醒、Bot、Extension 和 Dashboard。
+Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Reset Signal、历史记录和下一次 Reset Forecast**。本仓库同时发布版本化的 JSON 数据快照，方便用户查看，也方便开发者构建自己的提醒、Bot、Extension 和 Dashboard。
 
 🌐 **实时 Radar**：https://codex-reset.aiplanwatch.com/
 
@@ -16,7 +16,9 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 <!-- LIVE_STATUS_START -->
 
-> **GitHub 状态快照：2026-09-20（UTC）**
+> **GitHub 数据快照（非实时）：2026-09-20（UTC）**
+>
+> 本次快照生成于 `2026-09-20T11:05:58.128Z`。GitHub 数据以对应 JSON 文件的 `generated_at` 为准；实时状态请查看 [Codex Reset Radar](https://codex-reset.aiplanwatch.com/)。
 
 **今天（UTC）暂未记录新的 Global Reset。**
 
@@ -101,7 +103,7 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 ### 如果你是开发者
 
-本仓库会逐步提供机器可读的开放数据：
+本仓库已发布机器可读的开放数据快照：
 
 ```text
 data/
@@ -110,6 +112,8 @@ data/
 ├── signals.json
 └── forecast.json
 ```
+
+每份文件包含 `schema_version` 与 `generated_at`。数据是随 Git 提交更新的公开快照，不承诺实时性或固定刷新频率；使用前请读取最新提交和 [开放数据说明](./docs/open-data.md)。
 
 未来可用于构建：
 
@@ -134,34 +138,34 @@ data/
 | 了解 Codex Reset 是什么 | [What is Codex Reset](./docs/what-is-codex-reset.md) |
 | 了解 Usage Limit / Quota | [Codex Usage Limits](./docs/codex-usage-limits.md) |
 | 微信里查看和接收相关提醒 | 微信搜索 **徐公 AI 雷达** |
-| 获取机器可读数据 | Open Data（建设中） |
+| 获取机器可读数据 | [Open Data JSON 快照](./docs/open-data.md) |
 | 了解数据为什么这样分类 | [Methodology](./docs/methodology.md) |
 
 ---
 
-## Open Data
+## Open Data JSON 快照
 
-Codex Reset Radar 不只是一个展示页面，我们希望逐步把 Reset History、Signal 和 Forecast 变成可引用、可复用的数据。
+Codex Reset Radar 不只是一个展示页面。仓库中的 [`data/`](./data/) 提供可引用、可复用的版本化 JSON 快照。它们是公开数据镜像，**不是实时 API，也不是 OpenAI 官方状态接口**。
 
-计划提供：
+可直接读取：
 
-### `data/latest.json`
+### [`data/latest.json`](./data/latest.json)
 
-当前最新的 Reset 状态，适合 Dashboard、Bot、Extension、CLI 和 Widget。
+当前状态：产品、监控状态、最近 Global Reset、最近公开信号和 Forecast 可用性。
 
-### `data/resets.json`
+### [`data/resets.json`](./data/resets.json)
 
 Global Reset / Banked Reset 历史，适合 Timeline、数据分析和 Reset Interval 统计。
 
-### `data/signals.json`
+### [`data/signals.json`](./data/signals.json)
 
 公开 Reset Signal，并与 Verified Reset 分开。
 
-### `data/forecast.json`
+### [`data/forecast.json`](./data/forecast.json)
 
-未来 24h / 48h / 72h 等时间窗口的参考 Forecast。
+未来时间窗口的参考 Forecast，或明确的不可用状态。
 
-> 这些 JSON 文件尚未正式接入自动同步；未上线前不会把规划中的接口写成已经可用。
+字段、状态语义、兼容规则与使用边界见 [开放数据说明](./docs/open-data.md)。Forecast 不是 OpenAI 官方 Reset 时间；缺少可公开展示的 Forecast 时，数据会明确标为不可用，不会补造概率。
 
 ---
 
@@ -194,6 +198,7 @@ Unconfirmed
 
 - [Methodology](./docs/methodology.md)
 - [Data Sources](./docs/data-sources.md)
+- [Open Data JSON 快照](./docs/open-data.md)
 
 ---
 
@@ -225,7 +230,7 @@ Docs 负责解释“为什么、怎么算、历史是什么”。
 - [x] Public Reset Signals
 - [x] 微信小程序入口
 - [x] GitHub 文档拆分
-- [ ] Open JSON Data
+- [x] Open JSON Data 快照
 - [ ] GitHub 自动数据同步
 - [ ] README Live Status 自动更新
 - [ ] Reset Status Badge
