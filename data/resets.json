@@ -1,0 +1,466 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-20T11:05:58.128Z",
+  "events": [
+    {
+      "event_id": "1df24a18-e1a6-42f2-8954-6d3146dd26ff",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-09-12T08:09:17.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2098685367058612394"
+      }
+    },
+    {
+      "event_id": "83dba95f-88f3-4f3c-847b-22b8b0c6831e",
+      "reset_type": "banked",
+      "record_status": "recorded",
+      "occurred_at": "2026-09-05T00:39:25.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2096035437299237298"
+      }
+    },
+    {
+      "event_id": "790a9e16-9f96-481f-af80-b10a33662d57",
+      "reset_type": "banked",
+      "record_status": "recorded",
+      "occurred_at": "2026-09-04T20:57:17.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2095979536043401428"
+      }
+    },
+    {
+      "event_id": "305662d0-a383-49f9-9434-2eeff0c8cc77",
+      "reset_type": "banked",
+      "record_status": "recorded",
+      "occurred_at": "2026-09-03T23:12:09.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2095651088502591861"
+      }
+    },
+    {
+      "event_id": "2aab2cf2-519b-4662-8b0a-3e0dc5b2bbf4",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-08-31T02:29:25.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2094251180121854309"
+      }
+    },
+    {
+      "event_id": "68093507-339f-4340-8f5a-55c41f590a4e",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-08-29T20:43:34.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2093801758665715784"
+      }
+    },
+    {
+      "event_id": "2794f43e-ad03-44c7-ace1-a8b22c021e21",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-08-27T16:35:05.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2093014447833116908"
+      }
+    },
+    {
+      "event_id": "293f0e1a-6999-489e-99b1-f58850b3515d",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-08-24T00:46:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2091688655828246890"
+      }
+    },
+    {
+      "event_id": "1bce5492-e91b-4ee0-aa42-c0c1a5f9c06b",
+      "reset_type": "unknown",
+      "record_status": "recorded",
+      "occurred_at": "2026-08-21T23:40:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2090947107469558188"
+      }
+    },
+    {
+      "event_id": "60ec19fd-ba57-4618-84ac-6e80808f6475",
+      "reset_type": "banked",
+      "record_status": "recorded",
+      "occurred_at": "2026-08-21T11:43:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2090766694897619318"
+      }
+    },
+    {
+      "event_id": "90c2bf15-d38b-4659-a63c-0b6cba190876",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-08-13T01:01:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2087706104814023111"
+      }
+    },
+    {
+      "event_id": "6065f81a-805b-4c20-b5cd-4d7c8882347b",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-08-11T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2086972802457063486"
+      }
+    },
+    {
+      "event_id": "7b1f7cff-0b3b-4f82-8fa3-3d4741eaaca6",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-08-08T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2086188036493344823"
+      }
+    },
+    {
+      "event_id": "4d8fd8c7-87ce-4cb3-9cb3-9126cdc0a10c",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-08-01T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2083395449814229287"
+      }
+    },
+    {
+      "event_id": "bba136a3-7f4c-4c26-ad49-59990c4ec720",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-07-29T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2082317452755751098"
+      }
+    },
+    {
+      "event_id": "663b4c51-4d1e-4d2d-bff8-550512aec9d5",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-07-28T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2081940052154933696"
+      }
+    },
+    {
+      "event_id": "ff10eea9-5ce2-44a1-9106-f5e992b91350",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-07-25T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2081096447718723984"
+      }
+    },
+    {
+      "event_id": "df27a4d0-52da-4080-8596-e90469465600",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-07-21T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2079609157934886975"
+      }
+    },
+    {
+      "event_id": "7b6d443c-a7c4-40fd-92d1-65139f3f8a89",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-07-18T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2078320950488297917"
+      }
+    },
+    {
+      "event_id": "cdc67da3-8bac-4348-be6f-c5db04d30ca9",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-07-16T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2077607697487188198"
+      }
+    },
+    {
+      "event_id": "1eab3501-4418-4b62-8331-8a86c45ec78c",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-07-14T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2077114635308986427"
+      }
+    },
+    {
+      "event_id": "e4fa6f49-b4ff-4cf1-9136-566ffa92388c",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-07-13T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2076735790567338203"
+      }
+    },
+    {
+      "event_id": "4bd5132b-8aee-48b8-b2dd-8f78fbac6c41",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-07-12T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2076418567143408112"
+      }
+    },
+    {
+      "event_id": "f5dd4a69-4029-40a4-8579-f7c90b142d8d",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-07-11T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2075820987833274448"
+      }
+    },
+    {
+      "event_id": "302ee708-f4c0-417a-be98-ad2f04d32b89",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-07-10T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2075641131002700120"
+      }
+    },
+    {
+      "event_id": "46f03b37-d7d9-497d-bec1-54a5fd858e09",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-07-09T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2075330198887940337"
+      }
+    },
+    {
+      "event_id": "0dcbb57b-7f14-420b-b23d-042a0aac533a",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-06-29T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2071740419030053227"
+      }
+    },
+    {
+      "event_id": "b67fe493-354e-49db-b127-dbeffabdb7be",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-06-28T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2071381664853319742"
+      }
+    },
+    {
+      "event_id": "a20f84d8-b853-44a1-9ff6-763f73784713",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-06-26T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2070653282440405046"
+      }
+    },
+    {
+      "event_id": "9c1052fc-8fa8-4915-9bd1-dbeac2bcbd7f",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-06-18T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2067399435009622521"
+      }
+    },
+    {
+      "event_id": "6ccdb023-3350-4272-af40-7b55668dd7ff",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-06-04T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2062329981548802523"
+      }
+    },
+    {
+      "event_id": "daeafa27-210f-4811-bf07-dc49f506f7c5",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-05-31T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2061106703446450392"
+      }
+    },
+    {
+      "event_id": "08ee2a07-af40-4649-b3af-b2e27b739d14",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-05-23T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2058280452851638313"
+      }
+    },
+    {
+      "event_id": "1357f3f7-5afb-4d50-a92b-f1a9c521e10d",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-05-16T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2055707616605835333"
+      }
+    },
+    {
+      "event_id": "426fec61-8558-4b23-9fc6-d6469451106a",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-04-28T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2048997818673537399"
+      }
+    },
+    {
+      "event_id": "96da9b85-8205-4740-82f6-899f0295773f",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-04-20T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2046367145588916687"
+      }
+    },
+    {
+      "event_id": "dc184572-4fe5-4ca9-bb5a-1c0a74e789f8",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-04-17T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2044943514832871564"
+      }
+    },
+    {
+      "event_id": "f380c4ec-30e2-421b-a246-00c3b62716c9",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-04-09T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2042299371602264319"
+      }
+    },
+    {
+      "event_id": "2b42c9b0-ea61-4af1-89cd-497202be1f3b",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-04-07T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2041655710346572085"
+      }
+    },
+    {
+      "event_id": "e6633e1d-6431-409e-865b-ceaefd84e29d",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-04-01T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2039248564967424483"
+      }
+    },
+    {
+      "event_id": "c4f18a0a-098a-41be-8d36-4fb34eaf15b9",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-03-27T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2037346989244096581"
+      }
+    },
+    {
+      "event_id": "f28ef7fb-02ba-4c77-ba6c-a0bcf1167b52",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-03-11T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2031605592352313567"
+      }
+    },
+    {
+      "event_id": "35807b7b-0a89-4a79-ba30-22a22522c9db",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-03-10T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2031216405266481489"
+      }
+    },
+    {
+      "event_id": "4e01e503-240a-4152-95e5-835d40fac3a4",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-03-08T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2030474136024400173"
+      }
+    },
+    {
+      "event_id": "0d374f1b-96ef-4896-a26c-5fac35ad80e7",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-03-04T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2029308599835738218"
+      }
+    },
+    {
+      "event_id": "c03d21ea-08ad-41d6-b13e-90226325c639",
+      "reset_type": "global",
+      "record_status": "recorded",
+      "occurred_at": "2026-03-03T00:00:00.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2028649088594436225"
+      }
+    }
+  ]
+}

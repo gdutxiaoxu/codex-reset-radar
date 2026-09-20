@@ -16,14 +16,13 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 <!-- LIVE_STATUS_START -->
 
-> **GitHub 状态快照：2026-09-20**  
-> 当前 GitHub 自动同步尚未上线，实时状态请以 [Codex Reset Radar](https://codex-reset.aiplanwatch.com/) 为准。
+> **GitHub 状态快照：2026-09-20（UTC）**
 
-**今天暂未记录新的 Verified Global Reset。**
+**今天（UTC）暂未记录新的 Global Reset。**
 
-- **最近一次已确认 Global Reset**：2026-09-12 08:09 UTC
-- **来源**：Tibo · @thsottiaux
-- **状态**：Verified
+- **最近一次已记录 Global Reset**：2026-09-12 08:09 UTC
+- **来源**：[Tibo · @thsottiaux](https://x.com/thsottiaux/status/2098685367058612394)
+- **状态**：已记录
 - **当前监控状态**：Monitoring
 
 <!-- LIVE_STATUS_END -->
@@ -36,15 +35,7 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 <!-- FORECAST_START -->
 
-当前网站基于已记录的公开 Global Reset 间隔给出的历史概率：
-
-| 时间窗口 | 累计概率 |
-| --- | ---: |
-| 未来 24 小时 | 50% |
-| 未来 48 小时 | 50% |
-| 未来 72 小时 | 60% |
-
-当前样本基于 **42 个已记录公开 Global Reset 间隔**，其中包含 10 个可比较样本。
+当前没有可公开展示的 Forecast。实时状态请查看 [Codex Reset Radar](https://codex-reset.aiplanwatch.com/)。
 
 <!-- FORECAST_END -->
 
@@ -63,9 +54,11 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 | 日期 | 类型 | 状态 | 摘要 |
 | --- | --- | --- | --- |
-| 2026-09-12 | Global Reset | 🟢 Verified | 已记录公开 Global Reset 完成信号 |
-| 2026-09-05 | Banked Reset | 🟢 Recorded | Banked Reset 公开信号 |
-| 2026-09-04 | Banked Reset | 🟢 Recorded | 部分用户 Banked Reset 公开信号 |
+| 2026-09-12 | Reset Announcement | 已记录 | [Reset all propagated. Sweet dreams. https://t.co/VgKVUixoJG](https://x.com/thsottiaux/status/2098685367058612394) |
+| 2026-09-11 | Forecast Signal | 已记录 | [@CtrlAltDwayne 当我说为现有用户提供优质服务时，这就包括偶尔的 Reset](https://x.com/thsottiaux/status/2098300424520687965) |
+| 2026-09-07 | Forecast Signal | 已记录 | [永远不会放弃你 永远不会让你失望 永远不会跑开抛弃你 永远不会让你哭泣 永远不会说再见 永远不会说谎伤害你 感谢阅读。我们将对所有付费订阅的用量进行一次全局 Reset，这样你在用 Blender 做有趣的 3D 建模把额度全部用完之后，还能继续享受 Astra。工作周即将开始。 今日太平洋时间下午6点左右落地。](https://x.com/thsottiaux/status/2097043464538264003) |
+| 2026-09-06 | Forecast Signal | 已记录 | [@Gelassoldat @rezoundous 谁说它不会在一段时间后 reset 👀](https://x.com/thsottiaux/status/2096692394435752258) |
+| 2026-09-05 | Reset Announcement | 已记录 | [Because we are beyond happy to have Astra rolled out today ahead of schedule and you have been super patient with us (not really, but it’s ok!)… we will do the full banked reset today too for all Plus, Pro and Business users. Lands end of day. Happy Astra day and enjoy a phenome…](https://x.com/thsottiaux/status/2096035437299237298) |
 
 <!-- LATEST_SIGNALS_END -->
 

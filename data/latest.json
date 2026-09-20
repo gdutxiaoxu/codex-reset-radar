@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "product": "codex",
+  "generated_at": "2026-09-20T11:05:58.128Z",
+  "today": {
+    "date_utc": "2026-09-20",
+    "global_reset_recorded": false
+  },
+  "monitoring_state": "monitoring",
+  "last_global_reset": {
+    "event_id": "1df24a18-e1a6-42f2-8954-6d3146dd26ff",
+    "reset_type": "global",
+    "record_status": "recorded",
+    "occurred_at": "2026-09-12T08:09:17.000Z",
+    "source": {
+      "label": "Tibo · @thsottiaux",
+      "url": "https://x.com/thsottiaux/status/2098685367058612394"
+    }
+  },
+  "latest_signal": {
+    "signal_id": "2098685367058612394",
+    "signal_type": "reset_announcement",
+    "recorded_at": "2026-09-12T08:09:17.000Z",
+    "summary": "Reset all propagated. Sweet dreams. https://t.co/VgKVUixoJG",
+    "source": {
+      "label": "Tibo · @thsottiaux",
+      "url": "https://x.com/thsottiaux/status/2098685367058612394"
+    }
+  },
+  "forecast": {
+    "status": "unavailable",
+    "mode": "unavailable",
+    "horizons": [],
+    "watch": null
+  }
+}
