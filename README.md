@@ -16,9 +16,7 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 <!-- LIVE_STATUS_START -->
 
-> **GitHub 数据快照（非实时）：2026-09-20（UTC）**
->
-> 本次快照生成于 `2026-09-20T11:05:58.128Z`。GitHub 数据以对应 JSON 文件的 `generated_at` 为准；实时状态请查看 [Codex Reset Radar](https://codex-reset.aiplanwatch.com/)。
+> **GitHub 状态快照：2026-09-20（UTC）**
 
 **今天（UTC）暂未记录新的 Global Reset。**
 
