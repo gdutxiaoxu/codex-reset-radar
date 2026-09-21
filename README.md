@@ -35,7 +35,9 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 <!-- FORECAST_START -->
 
-当前没有可公开展示的 Forecast。实时状态请查看 [Codex Reset Radar](https://codex-reset.aiplanwatch.com/)。
+当前公开 Watch Signal：**70%**，窗口：Tuesday (Pacific Time)。
+
+来源：[查看原始公开来源](https://x.com/thsottiaux/status/2101352781219258527)。这不是本站历史模型概率，也不是官方 Reset 时间。
 
 <!-- FORECAST_END -->
 
@@ -54,11 +56,11 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 | 日期 | 类型 | 状态 | 摘要 |
 | --- | --- | --- | --- |
+| 2026-09-19 | Forecast Signal | 已记录 | [推断预测：Tibo 对重置卡请求直接回复“OK fine”，因此判断为较强的重置卡暗示。结合上下文，将 Tuesday 作为预测时间参考；按美国太平洋时间计算，预计重置卡发送时间对应北京时间周二15:00至周三14:59。](https://x.com/thsottiaux/status/2101352781219258527) |
 | 2026-09-12 | Reset Announcement | 已记录 | [Reset all propagated. Sweet dreams. https://t.co/VgKVUixoJG](https://x.com/thsottiaux/status/2098685367058612394) |
 | 2026-09-11 | Forecast Signal | 已记录 | [@CtrlAltDwayne 当我说为现有用户提供优质服务时，这就包括偶尔的 Reset](https://x.com/thsottiaux/status/2098300424520687965) |
 | 2026-09-07 | Forecast Signal | 已记录 | [永远不会放弃你 永远不会让你失望 永远不会跑开抛弃你 永远不会让你哭泣 永远不会说再见 永远不会说谎伤害你 感谢阅读。我们将对所有付费订阅的用量进行一次全局 Reset，这样你在用 Blender 做有趣的 3D 建模把额度全部用完之后，还能继续享受 Astra。工作周即将开始。 今日太平洋时间下午6点左右落地。](https://x.com/thsottiaux/status/2097043464538264003) |
 | 2026-09-06 | Forecast Signal | 已记录 | [@Gelassoldat @rezoundous 谁说它不会在一段时间后 reset 👀](https://x.com/thsottiaux/status/2096692394435752258) |
-| 2026-09-05 | Reset Announcement | 已记录 | [Because we are beyond happy to have Astra rolled out today ahead of schedule and you have been super patient with us (not really, but it’s ok!)… we will do the full banked reset today too for all Plus, Pro and Business users. Lands end of day. Happy Astra day and enjoy a phenome…](https://x.com/thsottiaux/status/2096035437299237298) |
 
 <!-- LATEST_SIGNALS_END -->
 

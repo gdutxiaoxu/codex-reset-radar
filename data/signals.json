@@ -1,7 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-20T11:05:58.128Z",
+  "generated_at": "2026-09-21T12:00:00.004Z",
   "signals": [
+    {
+      "signal_id": "2101352781219258527",
+      "signal_type": "forecast_source",
+      "recorded_at": "2026-09-19T16:48:38.000Z",
+      "summary": "推断预测：Tibo 对重置卡请求直接回复“OK fine”，因此判断为较强的重置卡暗示。结合上下文，将 Tuesday 作为预测时间参考；按美国太平洋时间计算，预计重置卡发送时间对应北京时间周二15:00至周三14:59。",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2101352781219258527"
+      }
+    },
     {
       "signal_id": "2098685367058612394",
       "signal_type": "reset_announcement",
