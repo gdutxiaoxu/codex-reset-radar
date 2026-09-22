@@ -35,9 +35,7 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 <!-- FORECAST_START -->
 
-当前公开 Watch Signal：**70%**，窗口：Tuesday (Pacific Time)。
-
-来源：[查看原始公开来源](https://x.com/thsottiaux/status/2101352781219258527)。这不是本站历史模型概率，也不是官方 Reset 时间。
+当前没有可公开展示的 Forecast。实时状态请查看 [Codex Reset Radar](https://codex-reset.aiplanwatch.com/)。
 
 <!-- FORECAST_END -->
 
