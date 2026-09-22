@@ -1,7 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-21T12:00:00.004Z",
+  "generated_at": "2026-09-22T18:35:14.477Z",
   "signals": [
+    {
+      "signal_id": "2102463847714247142",
+      "signal_type": "reset_announcement",
+      "recorded_at": "2026-09-22T18:23:37.000Z",
+      "summary": "GPT-6 Sol and Luna are out. Not only are they a very significant improvement across the board, but also in writing and general \"you know when you try it\" quality. We are also permanently reducing the API price by 50% making both of them viable for a ton of new usecases and makin…",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2102463847714247142"
+      }
+    },
     {
       "signal_id": "2101352781219258527",
       "signal_type": "forecast_source",
