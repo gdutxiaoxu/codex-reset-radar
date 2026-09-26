@@ -1,30 +1,30 @@
 {
   "schema_version": 1,
   "product": "codex",
-  "generated_at": "2026-09-26T00:00:00.007Z",
+  "generated_at": "2026-09-26T18:34:16.545Z",
   "today": {
     "date_utc": "2026-09-26",
-    "global_reset_recorded": false
+    "global_reset_recorded": true
   },
-  "monitoring_state": "monitoring",
+  "monitoring_state": "reset_recorded_today",
   "last_global_reset": {
-    "event_id": "1df24a18-e1a6-42f2-8954-6d3146dd26ff",
+    "event_id": "0d72a901-3fd5-4097-98c7-286b5a43fac1",
     "reset_type": "global",
     "record_status": "recorded",
-    "occurred_at": "2026-09-12T08:09:17.000Z",
+    "occurred_at": "2026-09-26T18:17:54.000Z",
     "source": {
       "label": "Tibo · @thsottiaux",
-      "url": "https://x.com/thsottiaux/status/2098685367058612394"
+      "url": "https://x.com/thsottiaux/status/2103911959544610829"
     }
   },
   "latest_signal": {
-    "signal_id": "2102463847714247142",
+    "signal_id": "2103911959544610829",
     "signal_type": "reset_announcement",
-    "recorded_at": "2026-09-22T18:23:37.000Z",
-    "summary": "GPT-6 Sol and Luna are out. Not only are they a very significant improvement across the board, but also in writing and general \"you know when you try it\" quality. We are also permanently reducing the API price by 50% making both of them viable for a ton of new usecases and makin…",
+    "recorded_at": "2026-09-26T18:17:54.000Z",
+    "summary": "Resets all propagated. That will be all. Have a fantastic weekend.",
     "source": {
       "label": "Tibo · @thsottiaux",
-      "url": "https://x.com/thsottiaux/status/2102463847714247142"
+      "url": "https://x.com/thsottiaux/status/2103911959544610829"
     }
   },
   "forecast": {
