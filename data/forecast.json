@@ -1,10 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-22T04:54:38.506Z",
-  "status": "unavailable",
-  "mode": "unavailable",
+  "generated_at": "2026-09-27T10:34:16.894Z",
+  "status": "ready",
+  "mode": "watch",
   "horizons": [],
-  "watch": null,
+  "watch": {
+    "probability": 0,
+    "window": "around OpenAI DevDay on Tuesday, September 29 (Pacific Time); timing is speculative",
+    "source_url": "https://x.com/thsottiaux/status/2103963215885701493"
+  },
   "sample": null,
   "disclaimer": "Forecast is not an official OpenAI reset schedule."
 }

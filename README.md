@@ -35,7 +35,9 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 <!-- FORECAST_START -->
 
-当前没有可公开展示的 Forecast。实时状态请查看 [Codex Reset Radar](https://codex-reset.aiplanwatch.com/)。
+当前公开 Watch Signal：**0%**，窗口：around OpenAI DevDay on Tuesday, September 29 (Pacific Time); timing is speculative。
+
+来源：[查看原始公开来源](https://x.com/thsottiaux/status/2103963215885701493)。这不是本站历史模型概率，也不是官方 Reset 时间。
 
 <!-- FORECAST_END -->
 
@@ -54,11 +56,11 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 | 日期 | 类型 | 状态 | 摘要 |
 | --- | --- | --- | --- |
+| 2026-09-26 | Forecast Signal | 已记录 | [@giadotai Sorry Gia. More resets coming next week](https://x.com/thsottiaux/status/2103963215885701493) |
 | 2026-09-26 | Reset Announcement | 已记录 | [Resets all propagated. That will be all. Have a fantastic weekend.](https://x.com/thsottiaux/status/2103911959544610829) |
 | 2026-09-22 | Reset Announcement | 已记录 | [GPT-6 Sol and Luna are out. Not only are they a very significant improvement across the board, but also in writing and general "you know when you try it" quality. We are also permanently reducing the API price by 50% making both of them viable for a ton of new usecases and makin…](https://x.com/thsottiaux/status/2102463847714247142) |
 | 2026-09-19 | Forecast Signal | 已记录 | [推断预测：Tibo 对重置卡请求直接回复“OK fine”，因此判断为较强的重置卡暗示。结合上下文，将 Tuesday 作为预测时间参考；按美国太平洋时间计算，预计重置卡发送时间对应北京时间周二15:00至周三14:59。](https://x.com/thsottiaux/status/2101352781219258527) |
 | 2026-09-12 | Reset Announcement | 已记录 | [Reset all propagated. Sweet dreams. https://t.co/VgKVUixoJG](https://x.com/thsottiaux/status/2098685367058612394) |
-| 2026-09-11 | Forecast Signal | 已记录 | [@CtrlAltDwayne 当我说为现有用户提供优质服务时，这就包括偶尔的 Reset](https://x.com/thsottiaux/status/2098300424520687965) |
 
 <!-- LATEST_SIGNALS_END -->
 
