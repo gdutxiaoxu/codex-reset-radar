@@ -16,7 +16,7 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 <!-- LIVE_STATUS_START -->
 
-> **GitHub 状态快照：2026-09-29（UTC）**
+> **GitHub 状态快照：2026-09-30（UTC）**
 
 **公开来源更新暂时延迟，不能据此断定今天没有 Reset。**
 
