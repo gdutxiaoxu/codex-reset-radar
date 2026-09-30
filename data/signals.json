@@ -1,7 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T12:00:00.001Z",
+  "generated_at": "2026-09-30T02:34:18.074Z",
   "signals": [
+    {
+      "signal_id": "2105120226027450685",
+      "signal_type": "reset_announcement",
+      "recorded_at": "2026-09-29T19:00:00.000Z",
+      "summary": "@theo Shhhhhh",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2105120226027450685"
+      }
+    },
     {
       "signal_id": "2103963215885701493",
       "signal_type": "forecast_source",
