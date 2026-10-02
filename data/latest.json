@@ -1,30 +1,30 @@
 {
   "schema_version": 1,
   "product": "codex",
-  "generated_at": "2026-10-02T00:00:00.017Z",
+  "generated_at": "2026-10-02T21:34:16.955Z",
   "today": {
     "date_utc": "2026-10-02",
-    "global_reset_recorded": false
+    "global_reset_recorded": true
   },
-  "monitoring_state": "monitoring",
+  "monitoring_state": "reset_recorded_today",
   "last_global_reset": {
-    "event_id": "0d72a901-3fd5-4097-98c7-286b5a43fac1",
+    "event_id": "c5688728-015e-48ae-a1a1-d58797903f97",
     "reset_type": "global",
     "record_status": "recorded",
-    "occurred_at": "2026-09-26T18:17:54.000Z",
+    "occurred_at": "2026-10-02T21:18:48.000Z",
     "source": {
       "label": "Tibo · @thsottiaux",
-      "url": "https://x.com/thsottiaux/status/2103911959544610829"
+      "url": "https://x.com/thsottiaux/status/2106131810921136451"
     }
   },
   "latest_signal": {
-    "signal_id": "2105120226027450685",
+    "signal_id": "2106131810921136451",
     "signal_type": "reset_announcement",
-    "recorded_at": "2026-09-29T19:00:00.000Z",
-    "summary": "@theo Shhhhhh",
+    "recorded_at": "2026-10-02T21:18:48.000Z",
+    "summary": "Reset all propagated. Enjoy. https://t.co/GaVJhbptR0",
     "source": {
       "label": "Tibo · @thsottiaux",
-      "url": "https://x.com/thsottiaux/status/2105120226027450685"
+      "url": "https://x.com/thsottiaux/status/2106131810921136451"
     }
   },
   "forecast": {

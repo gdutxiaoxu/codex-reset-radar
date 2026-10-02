@@ -1,7 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-30T02:34:18.074Z",
+  "generated_at": "2026-10-02T21:34:16.955Z",
   "signals": [
+    {
+      "signal_id": "2106131810921136451",
+      "signal_type": "reset_announcement",
+      "recorded_at": "2026-10-02T21:18:48.000Z",
+      "summary": "Reset all propagated. Enjoy. https://t.co/GaVJhbptR0",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2106131810921136451"
+      }
+    },
     {
       "signal_id": "2105120226027450685",
       "signal_type": "reset_announcement",
