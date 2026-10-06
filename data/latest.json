@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "product": "codex",
-  "generated_at": "2026-10-06T21:34:18.111Z",
+  "generated_at": "2026-10-06T22:34:18.002Z",
   "today": {
     "date_utc": "2026-10-06",
     "global_reset_recorded": false
@@ -18,13 +18,13 @@
     }
   },
   "latest_signal": {
-    "signal_id": "2107578625419866469",
+    "signal_id": "2107592473048715573",
     "signal_type": "forecast_source",
-    "recorded_at": "2026-10-06T21:07:55.000Z",
-    "summary": "Four updates or a reset. Or both. How was day 2. https://t.co/s8HNYAaVjH",
+    "recorded_at": "2026-10-06T22:02:57.000Z",
+    "summary": "@TokenGremlin I accept your vote",
     "source": {
       "label": "Tibo · @thsottiaux",
-      "url": "https://x.com/thsottiaux/status/2107578625419866469"
+      "url": "https://x.com/thsottiaux/status/2107592473048715573"
     }
   },
   "forecast": {
@@ -32,9 +32,9 @@
     "mode": "watch",
     "horizons": [],
     "watch": {
-      "probability": 0.45,
-      "window": "within 24h",
-      "source_url": "https://x.com/thsottiaux/status/2107578625419866469"
+      "probability": 0.4,
+      "window": "later today",
+      "source_url": "https://x.com/thsottiaux/status/2107592473048715573"
     }
   }
 }
