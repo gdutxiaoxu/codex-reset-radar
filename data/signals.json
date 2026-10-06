@@ -1,7 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-02T21:34:16.955Z",
+  "generated_at": "2026-10-06T21:34:18.111Z",
   "signals": [
+    {
+      "signal_id": "2107578625419866469",
+      "signal_type": "forecast_source",
+      "recorded_at": "2026-10-06T21:07:55.000Z",
+      "summary": "Four updates or a reset. Or both. How was day 2. https://t.co/s8HNYAaVjH",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2107578625419866469"
+      }
+    },
     {
       "signal_id": "2106131810921136451",
       "signal_type": "reset_announcement",

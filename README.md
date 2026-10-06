@@ -35,7 +35,9 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 <!-- FORECAST_START -->
 
-当前没有可公开展示的 Forecast。实时状态请查看 [Codex Reset Radar](https://codex-reset.aiplanwatch.com/)。
+当前公开 Watch Signal：**45%**，窗口：within 24h。
+
+来源：[查看原始公开来源](https://x.com/thsottiaux/status/2107578625419866469)。这不是本站历史模型概率，也不是官方 Reset 时间。
 
 <!-- FORECAST_END -->
 
@@ -54,11 +56,11 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 | 日期 | 类型 | 状态 | 摘要 |
 | --- | --- | --- | --- |
+| 2026-10-06 | Forecast Signal | 已记录 | [Four updates or a reset. Or both. How was day 2. https://t.co/s8HNYAaVjH](https://x.com/thsottiaux/status/2107578625419866469) |
 | 2026-10-02 | Reset Announcement | 已记录 | [Reset all propagated. Enjoy. https://t.co/GaVJhbptR0](https://x.com/thsottiaux/status/2106131810921136451) |
 | 2026-09-29 | Reset Announcement | 已记录 | [@theo Shhhhhh](https://x.com/thsottiaux/status/2105120226027450685) |
 | 2026-09-26 | Forecast Signal | 已记录 | [@giadotai 抱歉 Gia。下周还会有更多 Reset](https://x.com/thsottiaux/status/2103963215885701493) |
 | 2026-09-26 | Reset Announcement | 已记录 | [Resets all propagated. That will be all. Have a fantastic weekend.](https://x.com/thsottiaux/status/2103911959544610829) |
-| 2026-09-22 | Reset Announcement | 已记录 | [GPT-6 Sol and Luna are out. Not only are they a very significant improvement across the board, but also in writing and general "you know when you try it" quality. We are also permanently reducing the API price by 50% making both of them viable for a ton of new usecases and makin…](https://x.com/thsottiaux/status/2102463847714247142) |
 
 <!-- LATEST_SIGNALS_END -->
 
