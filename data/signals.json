@@ -1,7 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-06T22:34:18.002Z",
+  "generated_at": "2026-10-07T04:04:18.902Z",
   "signals": [
+    {
+      "signal_id": "2107676072871600470",
+      "signal_type": "reset_announcement",
+      "recorded_at": "2026-10-07T03:35:09.000Z",
+      "summary": "We shipped four things that were deemed good to great and some math proofs, but the vote is clear and the community demands a reset. I did calibrate it and it *seems* that the game is rigged in reset's favor, but such are the rules at the moment. Therefore ... the reset has been…",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2107676072871600470"
+      }
+    },
     {
       "signal_id": "2107592473048715573",
       "signal_type": "forecast_source",

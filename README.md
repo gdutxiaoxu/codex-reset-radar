@@ -18,12 +18,12 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 > **GitHub 状态快照：2026-10-07（UTC）**
 
-**今天（UTC）暂未记录新的 Global Reset。**
+**今天（UTC）已记录新的 Global Reset。**
 
-- **最近一次已记录 Global Reset**：2026-10-02 21:18 UTC
-- **来源**：[Tibo · @thsottiaux](https://x.com/thsottiaux/status/2106131810921136451)
+- **最近一次已记录 Global Reset**：2026-10-07 03:35 UTC
+- **来源**：[Tibo · @thsottiaux](https://x.com/thsottiaux/status/2107676072871600470)
 - **状态**：已记录
-- **当前监控状态**：Monitoring
+- **当前监控状态**：Reset recorded today
 
 <!-- LIVE_STATUS_END -->
 
@@ -35,9 +35,7 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 <!-- FORECAST_START -->
 
-当前公开 Watch Signal：**40%**，窗口：later today。
-
-来源：[查看原始公开来源](https://x.com/thsottiaux/status/2107592473048715573)。这不是本站历史模型概率，也不是官方 Reset 时间。
+当前没有可公开展示的 Forecast。实时状态请查看 [Codex Reset Radar](https://codex-reset.aiplanwatch.com/)。
 
 <!-- FORECAST_END -->
 
@@ -56,11 +54,11 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 | 日期 | 类型 | 状态 | 摘要 |
 | --- | --- | --- | --- |
+| 2026-10-07 | Reset Announcement | 已记录 | [We shipped four things that were deemed good to great and some math proofs, but the vote is clear and the community demands a reset. I did calibrate it and it \*seems\* that the game is rigged in reset's favor, but such are the rules at the moment. Therefore ... the reset has been…](https://x.com/thsottiaux/status/2107676072871600470) |
 | 2026-10-06 | Forecast Signal | 已记录 | [@TokenGremlin I accept your vote](https://x.com/thsottiaux/status/2107592473048715573) |
 | 2026-10-06 | Forecast Signal | 已记录 | [四次更新或一次 Reset。或者两者皆有。第2天过得如何。https://t.co/s8HNYAaVjH](https://x.com/thsottiaux/status/2107578625419866469) |
 | 2026-10-02 | Reset Announcement | 已记录 | [Reset all propagated. Enjoy. https://t.co/GaVJhbptR0](https://x.com/thsottiaux/status/2106131810921136451) |
 | 2026-09-29 | Reset Announcement | 已记录 | [@theo Shhhhhh](https://x.com/thsottiaux/status/2105120226027450685) |
-| 2026-09-26 | Forecast Signal | 已记录 | [@giadotai 抱歉 Gia。下周还会有更多 Reset](https://x.com/thsottiaux/status/2103963215885701493) |
 
 <!-- LATEST_SIGNALS_END -->
 
