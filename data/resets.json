@@ -1,7 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-07T04:04:18.902Z",
+  "generated_at": "2026-10-08T04:02:07.635Z",
   "events": [
+    {
+      "event_id": "8ba2e04a-a33f-4f8a-bda7-566350242b87",
+      "reset_type": "banked",
+      "record_status": "recorded",
+      "occurred_at": "2026-10-08T03:44:55.000Z",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2108040921044639779"
+      }
+    },
     {
       "event_id": "0a7de809-b25f-4ee0-bacf-fd96e0f888e3",
       "reset_type": "global",

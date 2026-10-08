@@ -54,11 +54,11 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 | 日期 | 类型 | 状态 | 摘要 |
 | --- | --- | --- | --- |
+| 2026-10-08 | Reset Announcement | 已记录 | [Confirmed landed across all accounts. How are we doing so far? https://t.co/tzw7dNX4pN](https://x.com/thsottiaux/status/2108040921044639779) |
 | 2026-10-07 | Reset Announcement | 已记录 | [We shipped four things that were deemed good to great and some math proofs, but the vote is clear and the community demands a reset. I did calibrate it and it \*seems\* that the game is rigged in reset's favor, but such are the rules at the moment. Therefore ... the reset has been…](https://x.com/thsottiaux/status/2107676072871600470) |
 | 2026-10-06 | Forecast Signal | 已记录 | [@TokenGremlin I accept your vote](https://x.com/thsottiaux/status/2107592473048715573) |
 | 2026-10-06 | Forecast Signal | 已记录 | [四次更新或一次 Reset。或者两者皆有。第2天过得如何。https://t.co/s8HNYAaVjH](https://x.com/thsottiaux/status/2107578625419866469) |
 | 2026-10-02 | Reset Announcement | 已记录 | [Reset all propagated. Enjoy. https://t.co/GaVJhbptR0](https://x.com/thsottiaux/status/2106131810921136451) |
-| 2026-09-29 | Reset Announcement | 已记录 | [@theo Shhhhhh](https://x.com/thsottiaux/status/2105120226027450685) |
 
 <!-- LATEST_SIGNALS_END -->
 
