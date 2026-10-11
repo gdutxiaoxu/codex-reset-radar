@@ -1,7 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-08T04:02:07.635Z",
+  "generated_at": "2026-10-11T04:32:12.673Z",
   "signals": [
+    {
+      "signal_id": "2109132167112782291",
+      "signal_type": "reset_announcement",
+      "recorded_at": "2026-10-11T04:01:09.000Z",
+      "summary": "Put the reset in the bag. All propagated. https://t.co/HGxaD3Zdcj",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2109132167112782291"
+      }
+    },
     {
       "signal_id": "2108040921044639779",
       "signal_type": "reset_announcement",
