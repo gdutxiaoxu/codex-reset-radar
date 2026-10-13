@@ -1,30 +1,30 @@
 {
   "schema_version": 1,
   "product": "codex",
-  "generated_at": "2026-10-13T00:00:00.017Z",
+  "generated_at": "2026-10-13T05:32:08.501Z",
   "today": {
     "date_utc": "2026-10-13",
-    "global_reset_recorded": false
+    "global_reset_recorded": true
   },
-  "monitoring_state": "monitoring",
+  "monitoring_state": "reset_recorded_today",
   "last_global_reset": {
-    "event_id": "31b4489b-bc42-46a4-84a1-adb580b4696a",
+    "event_id": "f206f2e4-22c0-4f82-86e1-153be415e157",
     "reset_type": "global",
     "record_status": "recorded",
-    "occurred_at": "2026-10-11T04:01:09.000Z",
+    "occurred_at": "2026-10-13T05:06:06.000Z",
     "source": {
       "label": "Tibo · @thsottiaux",
-      "url": "https://x.com/thsottiaux/status/2109132167112782291"
+      "url": "https://x.com/thsottiaux/status/2109873287853707513"
     }
   },
   "latest_signal": {
-    "signal_id": "2109132167112782291",
+    "signal_id": "2109873287853707513",
     "signal_type": "reset_announcement",
-    "recorded_at": "2026-10-11T04:01:09.000Z",
-    "summary": "Put the reset in the bag. All propagated. https://t.co/HGxaD3Zdcj",
+    "recorded_at": "2026-10-13T05:06:06.000Z",
+    "summary": "What would you like with your side of reset? It's done. https://t.co/gpNaB6otgy",
     "source": {
       "label": "Tibo · @thsottiaux",
-      "url": "https://x.com/thsottiaux/status/2109132167112782291"
+      "url": "https://x.com/thsottiaux/status/2109873287853707513"
     }
   },
   "forecast": {

@@ -1,7 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-11T04:32:12.673Z",
+  "generated_at": "2026-10-13T05:32:08.501Z",
   "signals": [
+    {
+      "signal_id": "2109873287853707513",
+      "signal_type": "reset_announcement",
+      "recorded_at": "2026-10-13T05:06:06.000Z",
+      "summary": "What would you like with your side of reset? It's done. https://t.co/gpNaB6otgy",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2109873287853707513"
+      }
+    },
     {
       "signal_id": "2109132167112782291",
       "signal_type": "reset_announcement",
