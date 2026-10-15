@@ -1,7 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-13T05:32:08.501Z",
+  "generated_at": "2026-10-15T06:32:10.540Z",
   "signals": [
+    {
+      "signal_id": "2110618732666257557",
+      "signal_type": "reset_announcement",
+      "recorded_at": "2026-10-15T06:28:13.000Z",
+      "summary": "Done and dusted https://t.co/0fehr43VS4",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2110618732666257557"
+      }
+    },
     {
       "signal_id": "2109873287853707513",
       "signal_type": "reset_announcement",

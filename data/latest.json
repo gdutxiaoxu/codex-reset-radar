@@ -1,30 +1,30 @@
 {
   "schema_version": 1,
   "product": "codex",
-  "generated_at": "2026-10-15T00:00:00.001Z",
+  "generated_at": "2026-10-15T06:32:10.540Z",
   "today": {
     "date_utc": "2026-10-15",
-    "global_reset_recorded": false
+    "global_reset_recorded": true
   },
-  "monitoring_state": "monitoring",
+  "monitoring_state": "reset_recorded_today",
   "last_global_reset": {
-    "event_id": "f206f2e4-22c0-4f82-86e1-153be415e157",
+    "event_id": "49a536f9-0ade-4065-af40-bd0ba66c540c",
     "reset_type": "global",
     "record_status": "recorded",
-    "occurred_at": "2026-10-13T05:06:06.000Z",
+    "occurred_at": "2026-10-15T06:28:13.000Z",
     "source": {
       "label": "Tibo · @thsottiaux",
-      "url": "https://x.com/thsottiaux/status/2109873287853707513"
+      "url": "https://x.com/thsottiaux/status/2110618732666257557"
     }
   },
   "latest_signal": {
-    "signal_id": "2109873287853707513",
+    "signal_id": "2110618732666257557",
     "signal_type": "reset_announcement",
-    "recorded_at": "2026-10-13T05:06:06.000Z",
-    "summary": "What would you like with your side of reset? It's done. https://t.co/gpNaB6otgy",
+    "recorded_at": "2026-10-15T06:28:13.000Z",
+    "summary": "Done and dusted https://t.co/0fehr43VS4",
     "source": {
       "label": "Tibo · @thsottiaux",
-      "url": "https://x.com/thsottiaux/status/2109873287853707513"
+      "url": "https://x.com/thsottiaux/status/2110618732666257557"
     }
   },
   "forecast": {
