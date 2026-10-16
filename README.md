@@ -56,7 +56,7 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 | 日期 | 类型 | 状态 | 摘要 |
 | --- | --- | --- | --- |
-| 2026-10-16 | Forecast Signal | 已记录 | [@maria\_rcks Can’t argue with that, Let’s break the cycle.](https://x.com/thsottiaux/status/2110951585983631505) |
+| 2026-10-16 | Forecast Signal | 已记录 | [@maria\_rcks 这点没法反驳，让我们打破这个循环吧。](https://x.com/thsottiaux/status/2110951585983631505) |
 | 2026-10-15 | Reset Announcement | 已记录 | [Done and dusted https://t.co/0fehr43VS4](https://x.com/thsottiaux/status/2110618732666257557) |
 | 2026-10-13 | Reset Announcement | 已记录 | [What would you like with your side of reset? It's done. https://t.co/gpNaB6otgy](https://x.com/thsottiaux/status/2109873287853707513) |
 | 2026-10-11 | Reset Announcement | 已记录 | [Put the reset in the bag. All propagated. https://t.co/HGxaD3Zdcj](https://x.com/thsottiaux/status/2109132167112782291) |
