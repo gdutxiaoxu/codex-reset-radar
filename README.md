@@ -35,7 +35,9 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 <!-- FORECAST_START -->
 
-当前没有可公开展示的 Forecast。实时状态请查看 [Codex Reset Radar](https://codex-reset.aiplanwatch.com/)。
+当前公开 Watch Signal：**40%**，窗口：within 24h。
+
+来源：[查看原始公开来源](https://x.com/thsottiaux/status/2110951585983631505)。这不是本站历史模型概率，也不是官方 Reset 时间。
 
 <!-- FORECAST_END -->
 
@@ -54,11 +56,11 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 | 日期 | 类型 | 状态 | 摘要 |
 | --- | --- | --- | --- |
+| 2026-10-16 | Forecast Signal | 已记录 | [@maria\_rcks Can’t argue with that, Let’s break the cycle.](https://x.com/thsottiaux/status/2110951585983631505) |
 | 2026-10-15 | Reset Announcement | 已记录 | [Done and dusted https://t.co/0fehr43VS4](https://x.com/thsottiaux/status/2110618732666257557) |
 | 2026-10-13 | Reset Announcement | 已记录 | [What would you like with your side of reset? It's done. https://t.co/gpNaB6otgy](https://x.com/thsottiaux/status/2109873287853707513) |
 | 2026-10-11 | Reset Announcement | 已记录 | [Put the reset in the bag. All propagated. https://t.co/HGxaD3Zdcj](https://x.com/thsottiaux/status/2109132167112782291) |
 | 2026-10-08 | Reset Announcement | 已记录 | [Confirmed landed across all accounts. How are we doing so far? https://t.co/tzw7dNX4pN](https://x.com/thsottiaux/status/2108040921044639779) |
-| 2026-10-07 | Reset Announcement | 已记录 | [We shipped four things that were deemed good to great and some math proofs, but the vote is clear and the community demands a reset. I did calibrate it and it \*seems\* that the game is rigged in reset's favor, but such are the rules at the moment. Therefore ... the reset has been…](https://x.com/thsottiaux/status/2107676072871600470) |
 
 <!-- LATEST_SIGNALS_END -->
 

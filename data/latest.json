@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "product": "codex",
-  "generated_at": "2026-10-16T00:00:00.003Z",
+  "generated_at": "2026-10-16T04:41:54.743Z",
   "today": {
     "date_utc": "2026-10-16",
     "global_reset_recorded": false
@@ -18,19 +18,23 @@
     }
   },
   "latest_signal": {
-    "signal_id": "2110618732666257557",
-    "signal_type": "reset_announcement",
-    "recorded_at": "2026-10-15T06:28:13.000Z",
-    "summary": "Done and dusted https://t.co/0fehr43VS4",
+    "signal_id": "2110951585983631505",
+    "signal_type": "forecast_source",
+    "recorded_at": "2026-10-16T04:30:52.000Z",
+    "summary": "@maria_rcks Can’t argue with that, Let’s break the cycle.",
     "source": {
       "label": "Tibo · @thsottiaux",
-      "url": "https://x.com/thsottiaux/status/2110618732666257557"
+      "url": "https://x.com/thsottiaux/status/2110951585983631505"
     }
   },
   "forecast": {
-    "status": "unavailable",
-    "mode": "unavailable",
+    "status": "ready",
+    "mode": "watch",
     "horizons": [],
-    "watch": null
+    "watch": {
+      "probability": 0.4,
+      "window": "within 24h",
+      "source_url": "https://x.com/thsottiaux/status/2110951585983631505"
+    }
   }
 }

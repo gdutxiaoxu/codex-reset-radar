@@ -1,10 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-07T04:04:18.902Z",
-  "status": "unavailable",
-  "mode": "unavailable",
+  "generated_at": "2026-10-16T04:41:54.743Z",
+  "status": "ready",
+  "mode": "watch",
   "horizons": [],
-  "watch": null,
+  "watch": {
+    "probability": 0.4,
+    "window": "within 24h",
+    "source_url": "https://x.com/thsottiaux/status/2110951585983631505"
+  },
   "sample": null,
   "disclaimer": "Forecast is not an official OpenAI reset schedule."
 }

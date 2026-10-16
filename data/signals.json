@@ -1,7 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-15T06:32:10.540Z",
+  "generated_at": "2026-10-16T04:41:54.743Z",
   "signals": [
+    {
+      "signal_id": "2110951585983631505",
+      "signal_type": "forecast_source",
+      "recorded_at": "2026-10-16T04:30:52.000Z",
+      "summary": "@maria_rcks Can’t argue with that, Let’s break the cycle.",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2110951585983631505"
+      }
+    },
     {
       "signal_id": "2110618732666257557",
       "signal_type": "reset_announcement",
