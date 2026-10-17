@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "product": "codex",
-  "generated_at": "2026-10-17T00:00:00.004Z",
+  "generated_at": "2026-10-17T00:41:51.969Z",
   "today": {
     "date_utc": "2026-10-17",
     "global_reset_recorded": false
@@ -28,13 +28,9 @@
     }
   },
   "forecast": {
-    "status": "ready",
-    "mode": "watch",
+    "status": "unavailable",
+    "mode": "unavailable",
     "horizons": [],
-    "watch": {
-      "probability": 0.4,
-      "window": "within 24h",
-      "source_url": "https://x.com/thsottiaux/status/2110951585983631505"
-    }
+    "watch": null
   }
 }
