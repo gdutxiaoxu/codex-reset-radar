@@ -1,30 +1,30 @@
 {
   "schema_version": 1,
   "product": "codex",
-  "generated_at": "2026-10-17T00:41:51.969Z",
+  "generated_at": "2026-10-17T21:41:52.431Z",
   "today": {
     "date_utc": "2026-10-17",
-    "global_reset_recorded": false
+    "global_reset_recorded": true
   },
-  "monitoring_state": "monitoring",
+  "monitoring_state": "reset_recorded_today",
   "last_global_reset": {
-    "event_id": "49a536f9-0ade-4065-af40-bd0ba66c540c",
+    "event_id": "57205f59-83a4-43e2-99bc-07916b1046d0",
     "reset_type": "global",
     "record_status": "recorded",
-    "occurred_at": "2026-10-15T06:28:13.000Z",
+    "occurred_at": "2026-10-17T21:12:21.000Z",
     "source": {
       "label": "Tibo · @thsottiaux",
-      "url": "https://x.com/thsottiaux/status/2110618732666257557"
+      "url": "https://x.com/thsottiaux/status/2111566005684289735"
     }
   },
   "latest_signal": {
-    "signal_id": "2110951585983631505",
-    "signal_type": "forecast_source",
-    "recorded_at": "2026-10-16T04:30:52.000Z",
-    "summary": "@maria_rcks 这点没法反驳，让我们打破这个循环吧。",
+    "signal_id": "2111566005684289735",
+    "signal_type": "reset_announcement",
+    "recorded_at": "2026-10-17T21:12:21.000Z",
+    "summary": "Done",
     "source": {
       "label": "Tibo · @thsottiaux",
-      "url": "https://x.com/thsottiaux/status/2110951585983631505"
+      "url": "https://x.com/thsottiaux/status/2111566005684289735"
     }
   },
   "forecast": {

@@ -1,7 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-16T06:00:00.002Z",
+  "generated_at": "2026-10-17T21:41:52.431Z",
   "signals": [
+    {
+      "signal_id": "2111566005684289735",
+      "signal_type": "reset_announcement",
+      "recorded_at": "2026-10-17T21:12:21.000Z",
+      "summary": "Done",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2111566005684289735"
+      }
+    },
     {
       "signal_id": "2110951585983631505",
       "signal_type": "forecast_source",

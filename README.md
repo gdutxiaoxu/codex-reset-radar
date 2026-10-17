@@ -18,12 +18,12 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 > **GitHub 状态快照：2026-10-17（UTC）**
 
-**今天（UTC）暂未记录新的 Global Reset。**
+**今天（UTC）已记录新的 Global Reset。**
 
-- **最近一次已记录 Global Reset**：2026-10-15 06:28 UTC
-- **来源**：[Tibo · @thsottiaux](https://x.com/thsottiaux/status/2110618732666257557)
+- **最近一次已记录 Global Reset**：2026-10-17 21:12 UTC
+- **来源**：[Tibo · @thsottiaux](https://x.com/thsottiaux/status/2111566005684289735)
 - **状态**：已记录
-- **当前监控状态**：Monitoring
+- **当前监控状态**：Reset recorded today
 
 <!-- LIVE_STATUS_END -->
 
@@ -54,11 +54,11 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 | 日期 | 类型 | 状态 | 摘要 |
 | --- | --- | --- | --- |
+| 2026-10-17 | Reset Announcement | 已记录 | [Done](https://x.com/thsottiaux/status/2111566005684289735) |
 | 2026-10-16 | Forecast Signal | 已记录 | [@maria\_rcks 这点没法反驳，让我们打破这个循环吧。](https://x.com/thsottiaux/status/2110951585983631505) |
 | 2026-10-15 | Reset Announcement | 已记录 | [Done and dusted https://t.co/0fehr43VS4](https://x.com/thsottiaux/status/2110618732666257557) |
 | 2026-10-13 | Reset Announcement | 已记录 | [What would you like with your side of reset? It's done. https://t.co/gpNaB6otgy](https://x.com/thsottiaux/status/2109873287853707513) |
 | 2026-10-11 | Reset Announcement | 已记录 | [Put the reset in the bag. All propagated. https://t.co/HGxaD3Zdcj](https://x.com/thsottiaux/status/2109132167112782291) |
-| 2026-10-08 | Reset Announcement | 已记录 | [Confirmed landed across all accounts. How are we doing so far? https://t.co/tzw7dNX4pN](https://x.com/thsottiaux/status/2108040921044639779) |
 
 <!-- LATEST_SIGNALS_END -->
 
