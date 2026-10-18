@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "product": "codex",
-  "generated_at": "2026-10-17T21:41:52.431Z",
+  "generated_at": "2026-10-18T00:00:00.008Z",
   "today": {
-    "date_utc": "2026-10-17",
-    "global_reset_recorded": true
+    "date_utc": "2026-10-18",
+    "global_reset_recorded": false
   },
-  "monitoring_state": "reset_recorded_today",
+  "monitoring_state": "monitoring",
   "last_global_reset": {
     "event_id": "57205f59-83a4-43e2-99bc-07916b1046d0",
     "reset_type": "global",
