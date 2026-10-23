@@ -1,30 +1,30 @@
 {
   "schema_version": 1,
   "product": "codex",
-  "generated_at": "2026-10-23T00:00:00.002Z",
+  "generated_at": "2026-10-23T03:11:55.129Z",
   "today": {
     "date_utc": "2026-10-23",
     "global_reset_recorded": false
   },
   "monitoring_state": "monitoring",
   "last_global_reset": {
-    "event_id": "8839ffed-7d36-42be-98cc-bdd60361281a",
+    "event_id": "677c76ed-7b92-41b1-96cc-7a91c30ce8e5",
     "reset_type": "global",
     "record_status": "recorded",
-    "occurred_at": "2026-10-20T06:33:48.000Z",
+    "occurred_at": "2026-10-22T17:00:00.000Z",
     "source": {
       "label": "Tibo · @thsottiaux",
-      "url": "https://x.com/thsottiaux/status/2112432076767289678"
+      "url": "https://x.com/thsottiaux/status/2113162413008884099"
     }
   },
   "latest_signal": {
-    "signal_id": "2112432076767289678",
+    "signal_id": "2113162413008884099",
     "signal_type": "reset_announcement",
-    "recorded_at": "2026-10-20T06:33:48.000Z",
-    "summary": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802",
+    "recorded_at": "2026-10-22T17:00:00.000Z",
+    "summary": "Codex usage limits have been reset. Check your limits.",
     "source": {
       "label": "Tibo · @thsottiaux",
-      "url": "https://x.com/thsottiaux/status/2112432076767289678"
+      "url": "https://x.com/thsottiaux/status/2113162413008884099"
     }
   },
   "forecast": {

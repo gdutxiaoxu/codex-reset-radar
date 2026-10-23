@@ -1,7 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-20T06:41:53.619Z",
+  "generated_at": "2026-10-23T03:11:55.129Z",
   "signals": [
+    {
+      "signal_id": "2113162413008884099",
+      "signal_type": "reset_announcement",
+      "recorded_at": "2026-10-22T17:00:00.000Z",
+      "summary": "Codex usage limits have been reset. Check your limits.",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2113162413008884099"
+      }
+    },
     {
       "signal_id": "2112432076767289678",
       "signal_type": "reset_announcement",
