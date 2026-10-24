@@ -1,30 +1,30 @@
 {
   "schema_version": 1,
   "product": "codex",
-  "generated_at": "2026-10-24T00:00:00.006Z",
+  "generated_at": "2026-10-24T03:11:55.608Z",
   "today": {
     "date_utc": "2026-10-24",
     "global_reset_recorded": false
   },
   "monitoring_state": "monitoring",
   "last_global_reset": {
-    "event_id": "677c76ed-7b92-41b1-96cc-7a91c30ce8e5",
+    "event_id": "f3f7366c-87eb-4071-b92b-33fc738fbe59",
     "reset_type": "global",
     "record_status": "recorded",
-    "occurred_at": "2026-10-22T17:00:00.000Z",
+    "occurred_at": "2026-10-23T17:00:00.000Z",
     "source": {
       "label": "Tibo · @thsottiaux",
-      "url": "https://x.com/thsottiaux/status/2113162413008884099"
+      "url": "https://x.com/thsottiaux/status/2113492502355562875"
     }
   },
   "latest_signal": {
-    "signal_id": "2113162413008884099",
+    "signal_id": "2113492502355562875",
     "signal_type": "reset_announcement",
-    "recorded_at": "2026-10-22T17:00:00.000Z",
+    "recorded_at": "2026-10-23T17:00:00.000Z",
     "summary": "Codex usage limits have been reset. Check your limits.",
     "source": {
       "label": "Tibo · @thsottiaux",
-      "url": "https://x.com/thsottiaux/status/2113162413008884099"
+      "url": "https://x.com/thsottiaux/status/2113492502355562875"
     }
   },
   "forecast": {
