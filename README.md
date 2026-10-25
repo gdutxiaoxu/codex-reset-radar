@@ -18,12 +18,12 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 > **GitHub 状态快照：2026-10-25（UTC）**
 
-**今天（UTC）暂未记录新的 Global Reset。**
+**今天（UTC）已记录新的 Global Reset。**
 
-- **最近一次已记录 Global Reset**：2026-10-23 17:00 UTC
-- **来源**：[Tibo · @thsottiaux](https://x.com/thsottiaux/status/2113492502355562875)
+- **最近一次已记录 Global Reset**：2026-10-25 06:06 UTC
+- **来源**：[Tibo · @thsottiaux](https://x.com/thsottiaux/status/2114237083652882932)
 - **状态**：已记录
-- **当前监控状态**：Monitoring
+- **当前监控状态**：Reset recorded today
 
 <!-- LIVE_STATUS_END -->
 
@@ -54,11 +54,11 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 | 日期 | 类型 | 状态 | 摘要 |
 | --- | --- | --- | --- |
+| 2026-10-25 | Reset Announcement | 已记录 | [It is all propagated. Enjoy some mad codexing tomorrow. Fun week ahead too. https://t.co/qOrzwSeIZZ https://t.co/xKaK95EAly](https://x.com/thsottiaux/status/2114237083652882932) |
 | 2026-10-23 | Reset Announcement | 已记录 | [Codex usage limits have been reset. Check your limits.](https://x.com/thsottiaux/status/2113492502355562875) |
 | 2026-10-22 | Reset Announcement | 已记录 | [Codex usage limits have been reset. Check your limits.](https://x.com/thsottiaux/status/2113162413008884099) |
 | 2026-10-20 | Reset Announcement | 已记录 | [Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802](https://x.com/thsottiaux/status/2112432076767289678) |
 | 2026-10-17 | Reset Announcement | 已记录 | [Done](https://x.com/thsottiaux/status/2111566005684289735) |
-| 2026-10-16 | Forecast Signal | 已记录 | [@maria\_rcks 这点没法反驳，让我们打破这个循环吧。](https://x.com/thsottiaux/status/2110951585983631505) |
 
 <!-- LATEST_SIGNALS_END -->
 

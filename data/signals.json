@@ -1,7 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-24T03:11:55.608Z",
+  "generated_at": "2026-10-25T06:11:56.107Z",
   "signals": [
+    {
+      "signal_id": "2114237083652882932",
+      "signal_type": "reset_announcement",
+      "recorded_at": "2026-10-25T06:06:16.000Z",
+      "summary": "It is all propagated. Enjoy some mad codexing tomorrow. Fun week ahead too. https://t.co/qOrzwSeIZZ https://t.co/xKaK95EAly",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2114237083652882932"
+      }
+    },
     {
       "signal_id": "2113492502355562875",
       "signal_type": "reset_announcement",
