@@ -1,30 +1,30 @@
 {
   "schema_version": 1,
   "product": "codex",
-  "generated_at": "2026-10-26T00:00:00.012Z",
+  "generated_at": "2026-10-26T07:41:55.710Z",
   "today": {
     "date_utc": "2026-10-26",
-    "global_reset_recorded": false
+    "global_reset_recorded": true
   },
-  "monitoring_state": "monitoring",
+  "monitoring_state": "reset_recorded_today",
   "last_global_reset": {
-    "event_id": "d320e866-453f-4d69-9dc1-44034fe3702c",
+    "event_id": "985c997a-fc04-4c48-b499-0c5576d42894",
     "reset_type": "global",
     "record_status": "recorded",
-    "occurred_at": "2026-10-25T06:06:16.000Z",
+    "occurred_at": "2026-10-26T07:00:00.000Z",
     "source": {
       "label": "Tibo · @thsottiaux",
-      "url": "https://x.com/thsottiaux/status/2114237083652882932"
+      "url": "https://x.com/thsottiaux/status/2114588174249071102"
     }
   },
   "latest_signal": {
-    "signal_id": "2114237083652882932",
+    "signal_id": "2114588174249071102",
     "signal_type": "reset_announcement",
-    "recorded_at": "2026-10-25T06:06:16.000Z",
-    "summary": "It is all propagated. Enjoy some mad codexing tomorrow. Fun week ahead too. https://t.co/qOrzwSeIZZ https://t.co/xKaK95EAly",
+    "recorded_at": "2026-10-26T07:00:00.000Z",
+    "summary": "Codex usage limits have been reset. Check your limits.",
     "source": {
       "label": "Tibo · @thsottiaux",
-      "url": "https://x.com/thsottiaux/status/2114237083652882932"
+      "url": "https://x.com/thsottiaux/status/2114588174249071102"
     }
   },
   "forecast": {
