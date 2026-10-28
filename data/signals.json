@@ -1,7 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-28T04:31:18.663Z",
+  "generated_at": "2026-10-28T06:31:21.079Z",
   "signals": [
+    {
+      "signal_id": "2115330127886463244",
+      "signal_type": "reset_announcement",
+      "recorded_at": "2026-10-28T06:29:38.000Z",
+      "summary": "And it's done. See you tomorrow for some good news. https://t.co/WhJle2cWRG",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2115330127886463244"
+      }
+    },
     {
       "signal_id": "2115297093879472332",
       "signal_type": "reset_announcement",

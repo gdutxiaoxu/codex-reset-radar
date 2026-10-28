@@ -20,8 +20,8 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 **今天（UTC）已记录新的 Global Reset。**
 
-- **最近一次已记录 Global Reset**：2026-10-28 04:18 UTC
-- **来源**：[Tibo · @thsottiaux](https://x.com/thsottiaux/status/2115297093879472332)
+- **最近一次已记录 Global Reset**：2026-10-28 06:29 UTC
+- **来源**：[Tibo · @thsottiaux](https://x.com/thsottiaux/status/2115330127886463244)
 - **状态**：已记录
 - **当前监控状态**：Reset recorded today
 
@@ -54,11 +54,11 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 | 日期 | 类型 | 状态 | 摘要 |
 | --- | --- | --- | --- |
+| 2026-10-28 | Reset Announcement | 已记录 | [And it's done. See you tomorrow for some good news. https://t.co/WhJle2cWRG](https://x.com/thsottiaux/status/2115330127886463244) |
 | 2026-10-28 | Reset Announcement | 已记录 | [https://t.co/Fgy0dBAHsJ has landed](https://x.com/thsottiaux/status/2115297093879472332) |
 | 2026-10-26 | Reset Announcement | 已记录 | [Codex usage limits have been reset. Check your limits.](https://x.com/thsottiaux/status/2114588174249071102) |
 | 2026-10-25 | Reset Announcement | 已记录 | [It is all propagated. Enjoy some mad codexing tomorrow. Fun week ahead too. https://t.co/qOrzwSeIZZ https://t.co/xKaK95EAly](https://x.com/thsottiaux/status/2114237083652882932) |
 | 2026-10-23 | Reset Announcement | 已记录 | [Codex usage limits have been reset. Check your limits.](https://x.com/thsottiaux/status/2113492502355562875) |
-| 2026-10-22 | Reset Announcement | 已记录 | [Codex usage limits have been reset. Check your limits.](https://x.com/thsottiaux/status/2113162413008884099) |
 
 <!-- LATEST_SIGNALS_END -->
 
