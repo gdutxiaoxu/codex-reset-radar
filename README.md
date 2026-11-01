@@ -18,12 +18,12 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 > **GitHub 状态快照：2026-11-01（UTC）**
 
-**今天（UTC）暂未记录新的 Global Reset。**
+**公开来源更新暂时延迟，不能据此断定今天没有 Reset。**
 
 - **最近一次已记录 Global Reset**：2026-10-28 06:29 UTC
 - **来源**：[Tibo · @thsottiaux](https://x.com/thsottiaux/status/2115330127886463244)
 - **状态**：已记录
-- **当前监控状态**：Monitoring
+- **当前监控状态**：Updates delayed
 
 <!-- LIVE_STATUS_END -->
 
