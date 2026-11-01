@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "product": "codex",
-  "generated_at": "2026-11-01T00:00:00.007Z",
+  "generated_at": "2026-11-01T00:54:17.419Z",
   "today": {
     "date_utc": "2026-11-01",
     "global_reset_recorded": false
@@ -18,13 +18,13 @@
     }
   },
   "latest_signal": {
-    "signal_id": "2115330127886463244",
+    "signal_id": "2116692529970311254",
     "signal_type": "reset_announcement",
-    "recorded_at": "2026-10-28T06:29:38.000Z",
-    "summary": "And it's done. See you tomorrow for some good news. https://t.co/WhJle2cWRG",
+    "recorded_at": "2026-11-01T00:43:20.000Z",
+    "summary": "Banked 1/2",
     "source": {
       "label": "Tibo · @thsottiaux",
-      "url": "https://x.com/thsottiaux/status/2115330127886463244"
+      "url": "https://x.com/thsottiaux/status/2116692529970311254"
     }
   },
   "forecast": {

@@ -1,7 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-28T06:31:21.079Z",
+  "generated_at": "2026-11-01T00:54:17.419Z",
   "signals": [
+    {
+      "signal_id": "2116692529970311254",
+      "signal_type": "reset_announcement",
+      "recorded_at": "2026-11-01T00:43:20.000Z",
+      "summary": "Banked 1/2",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2116692529970311254"
+      }
+    },
     {
       "signal_id": "2115330127886463244",
       "signal_type": "reset_announcement",
