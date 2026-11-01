@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "product": "codex",
-  "generated_at": "2026-11-01T11:45:34.063Z",
+  "generated_at": "2026-11-01T23:45:43.785Z",
   "today": {
     "date_utc": "2026-11-01",
     "global_reset_recorded": false
@@ -18,13 +18,13 @@
     }
   },
   "latest_signal": {
-    "signal_id": "2116692529970311254",
+    "signal_id": "2117035794678546764",
     "signal_type": "reset_announcement",
-    "recorded_at": "2026-11-01T00:43:20.000Z",
-    "summary": "Banked 1/2",
+    "recorded_at": "2026-11-01T23:27:20.000Z",
+    "summary": "Day 28/ Banked 2/2",
     "source": {
       "label": "Tibo · @thsottiaux",
-      "url": "https://x.com/thsottiaux/status/2116692529970311254"
+      "url": "https://x.com/thsottiaux/status/2117035794678546764"
     }
   },
   "forecast": {

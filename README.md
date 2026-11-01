@@ -54,11 +54,11 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 | 日期 | 类型 | 状态 | 摘要 |
 | --- | --- | --- | --- |
+| 2026-11-01 | Reset Announcement | 已记录 | [Day 28/ Banked 2/2](https://x.com/thsottiaux/status/2117035794678546764) |
 | 2026-11-01 | Reset Announcement | 已记录 | [Banked 1/2](https://x.com/thsottiaux/status/2116692529970311254) |
 | 2026-10-28 | Reset Announcement | 已记录 | [And it's done. See you tomorrow for some good news. https://t.co/WhJle2cWRG](https://x.com/thsottiaux/status/2115330127886463244) |
 | 2026-10-28 | Reset Announcement | 已记录 | [https://t.co/Fgy0dBAHsJ has landed](https://x.com/thsottiaux/status/2115297093879472332) |
 | 2026-10-26 | Reset Announcement | 已记录 | [Codex usage limits have been reset. Check your limits.](https://x.com/thsottiaux/status/2114588174249071102) |
-| 2026-10-25 | Reset Announcement | 已记录 | [It is all propagated. Enjoy some mad codexing tomorrow. Fun week ahead too. https://t.co/qOrzwSeIZZ https://t.co/xKaK95EAly](https://x.com/thsottiaux/status/2114237083652882932) |
 
 <!-- LATEST_SIGNALS_END -->
 
