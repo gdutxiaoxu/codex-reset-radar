@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "product": "codex",
-  "generated_at": "2026-11-07T00:00:00.005Z",
+  "generated_at": "2026-11-08T00:00:00.002Z",
   "today": {
-    "date_utc": "2026-11-07",
+    "date_utc": "2026-11-08",
     "global_reset_recorded": false
   },
   "monitoring_state": "monitoring",
