@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-11T07:05:12.764Z",
+  "generated_at": "2026-11-11T12:00:00.009Z",
   "signals": [
     {
       "signal_id": "2120410480204525936",
       "signal_type": "forecast_source",
       "recorded_at": "2026-11-11T06:57:08.000Z",
-      "summary": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
+      "summary": "我觉得周四很有 Codex 味。或许也是个攒一次 reset 的好时机。",
       "source": {
         "label": "Tibo · @thsottiaux",
         "url": "https://x.com/thsottiaux/status/2120410480204525936"

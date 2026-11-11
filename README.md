@@ -56,7 +56,7 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 | 日期 | 类型 | 状态 | 摘要 |
 | --- | --- | --- | --- |
-| 2026-11-11 | Forecast Signal | 已记录 | [Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.](https://x.com/thsottiaux/status/2120410480204525936) |
+| 2026-11-11 | Forecast Signal | 已记录 | [我觉得周四很有 Codex 味。或许也是个攒一次 reset 的好时机。](https://x.com/thsottiaux/status/2120410480204525936) |
 | 2026-11-01 | Reset Announcement | 已记录 | [Day 28/ Banked 2/2](https://x.com/thsottiaux/status/2117035794678546764) |
 | 2026-11-01 | Reset Announcement | 已记录 | [Banked 1/2](https://x.com/thsottiaux/status/2116692529970311254) |
 | 2026-10-28 | Reset Announcement | 已记录 | [And it's done. See you tomorrow for some good news. https://t.co/WhJle2cWRG](https://x.com/thsottiaux/status/2115330127886463244) |
