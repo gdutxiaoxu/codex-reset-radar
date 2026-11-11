@@ -1,7 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-01T23:45:43.785Z",
+  "generated_at": "2026-11-11T07:05:12.764Z",
   "signals": [
+    {
+      "signal_id": "2120410480204525936",
+      "signal_type": "forecast_source",
+      "recorded_at": "2026-11-11T06:57:08.000Z",
+      "summary": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2120410480204525936"
+      }
+    },
     {
       "signal_id": "2117035794678546764",
       "signal_type": "reset_announcement",

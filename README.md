@@ -35,7 +35,9 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 <!-- FORECAST_START -->
 
-当前没有可公开展示的 Forecast。实时状态请查看 [Codex Reset Radar](https://codex-reset.aiplanwatch.com/)。
+当前公开 Watch Signal：**65%**，窗口：by end of Thursday。
+
+来源：[查看原始公开来源](https://x.com/thsottiaux/status/2120410480204525936)。这不是本站历史模型概率，也不是官方 Reset 时间。
 
 <!-- FORECAST_END -->
 
@@ -54,11 +56,11 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 | 日期 | 类型 | 状态 | 摘要 |
 | --- | --- | --- | --- |
+| 2026-11-11 | Forecast Signal | 已记录 | [Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.](https://x.com/thsottiaux/status/2120410480204525936) |
 | 2026-11-01 | Reset Announcement | 已记录 | [Day 28/ Banked 2/2](https://x.com/thsottiaux/status/2117035794678546764) |
 | 2026-11-01 | Reset Announcement | 已记录 | [Banked 1/2](https://x.com/thsottiaux/status/2116692529970311254) |
 | 2026-10-28 | Reset Announcement | 已记录 | [And it's done. See you tomorrow for some good news. https://t.co/WhJle2cWRG](https://x.com/thsottiaux/status/2115330127886463244) |
 | 2026-10-28 | Reset Announcement | 已记录 | [https://t.co/Fgy0dBAHsJ has landed](https://x.com/thsottiaux/status/2115297093879472332) |
-| 2026-10-26 | Reset Announcement | 已记录 | [Codex usage limits have been reset. Check your limits.](https://x.com/thsottiaux/status/2114588174249071102) |
 
 <!-- LATEST_SIGNALS_END -->
 

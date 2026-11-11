@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "product": "codex",
-  "generated_at": "2026-11-11T00:00:00.007Z",
+  "generated_at": "2026-11-11T07:05:12.764Z",
   "today": {
     "date_utc": "2026-11-11",
     "global_reset_recorded": false
@@ -18,19 +18,23 @@
     }
   },
   "latest_signal": {
-    "signal_id": "2117035794678546764",
-    "signal_type": "reset_announcement",
-    "recorded_at": "2026-11-01T23:27:20.000Z",
-    "summary": "Day 28/ Banked 2/2",
+    "signal_id": "2120410480204525936",
+    "signal_type": "forecast_source",
+    "recorded_at": "2026-11-11T06:57:08.000Z",
+    "summary": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
     "source": {
       "label": "Tibo · @thsottiaux",
-      "url": "https://x.com/thsottiaux/status/2117035794678546764"
+      "url": "https://x.com/thsottiaux/status/2120410480204525936"
     }
   },
   "forecast": {
-    "status": "unavailable",
-    "mode": "unavailable",
+    "status": "ready",
+    "mode": "watch",
     "horizons": [],
-    "watch": null
+    "watch": {
+      "probability": 0.65,
+      "window": "by end of Thursday",
+      "source_url": "https://x.com/thsottiaux/status/2120410480204525936"
+    }
   }
 }
