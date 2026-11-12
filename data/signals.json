@@ -1,7 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-11T12:00:00.009Z",
+  "generated_at": "2026-11-12T22:05:07.864Z",
   "signals": [
+    {
+      "signal_id": "2120999993079451919",
+      "signal_type": "reset_announcement",
+      "recorded_at": "2026-11-12T21:59:39.000Z",
+      "summary": "We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon! https://t.co/Y7Mnp6Cuu1",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2120999993079451919"
+      }
+    },
     {
       "signal_id": "2120410480204525936",
       "signal_type": "forecast_source",

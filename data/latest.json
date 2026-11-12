@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "product": "codex",
-  "generated_at": "2026-11-12T00:00:00.005Z",
+  "generated_at": "2026-11-12T22:05:07.864Z",
   "today": {
     "date_utc": "2026-11-12",
     "global_reset_recorded": false
@@ -18,23 +18,19 @@
     }
   },
   "latest_signal": {
-    "signal_id": "2120410480204525936",
-    "signal_type": "forecast_source",
-    "recorded_at": "2026-11-11T06:57:08.000Z",
-    "summary": "我觉得周四很有 Codex 味。或许也是个攒一次 reset 的好时机。",
+    "signal_id": "2120999993079451919",
+    "signal_type": "reset_announcement",
+    "recorded_at": "2026-11-12T21:59:39.000Z",
+    "summary": "We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon! https://t.co/Y7Mnp6Cuu1",
     "source": {
       "label": "Tibo · @thsottiaux",
-      "url": "https://x.com/thsottiaux/status/2120410480204525936"
+      "url": "https://x.com/thsottiaux/status/2120999993079451919"
     }
   },
   "forecast": {
-    "status": "ready",
-    "mode": "watch",
+    "status": "unavailable",
+    "mode": "unavailable",
     "horizons": [],
-    "watch": {
-      "probability": 0.65,
-      "window": "by end of Thursday",
-      "source_url": "https://x.com/thsottiaux/status/2120410480204525936"
-    }
+    "watch": null
   }
 }
