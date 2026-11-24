@@ -1,7 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-12T22:05:07.864Z",
+  "generated_at": "2026-11-24T18:52:20.355Z",
   "signals": [
+    {
+      "signal_id": "2125299248782778588",
+      "signal_type": "reset_announcement",
+      "recorded_at": "2026-11-24T18:43:21.000Z",
+      "summary": "To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!",
+      "source": {
+        "label": "Tibo · @thsottiaux",
+        "url": "https://x.com/thsottiaux/status/2125299248782778588"
+      }
+    },
     {
       "signal_id": "2120999993079451919",
       "signal_type": "reset_announcement",
