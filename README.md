@@ -16,14 +16,12 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 <!-- LIVE_STATUS_START -->
 
-> **GitHub 数据快照（非实时）：2026-09-20（UTC）**
->
-> 本次快照生成于 `2026-09-20T11:05:58.128Z`。GitHub 数据以对应 JSON 文件的 `generated_at` 为准；实时状态请查看 [Codex Reset Radar](https://codex-reset.aiplanwatch.com/)。
+> **GitHub 状态快照：2026-11-26（UTC）**
 
 **今天（UTC）暂未记录新的 Global Reset。**
 
-- **最近一次已记录 Global Reset**：2026-09-12 08:09 UTC
-- **来源**：[Tibo · @thsottiaux](https://x.com/thsottiaux/status/2098685367058612394)
+- **最近一次已记录 Global Reset**：2026-10-28 06:29 UTC
+- **来源**：[Tibo · @thsottiaux](https://x.com/thsottiaux/status/2115330127886463244)
 - **状态**：已记录
 - **当前监控状态**：Monitoring
 
@@ -56,11 +54,11 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 | 日期 | 类型 | 状态 | 摘要 |
 | --- | --- | --- | --- |
-| 2026-09-12 | Reset Announcement | 已记录 | [Reset all propagated. Sweet dreams. https://t.co/VgKVUixoJG](https://x.com/thsottiaux/status/2098685367058612394) |
-| 2026-09-11 | Forecast Signal | 已记录 | [@CtrlAltDwayne 当我说为现有用户提供优质服务时，这就包括偶尔的 Reset](https://x.com/thsottiaux/status/2098300424520687965) |
-| 2026-09-07 | Forecast Signal | 已记录 | [永远不会放弃你 永远不会让你失望 永远不会跑开抛弃你 永远不会让你哭泣 永远不会说再见 永远不会说谎伤害你 感谢阅读。我们将对所有付费订阅的用量进行一次全局 Reset，这样你在用 Blender 做有趣的 3D 建模把额度全部用完之后，还能继续享受 Astra。工作周即将开始。 今日太平洋时间下午6点左右落地。](https://x.com/thsottiaux/status/2097043464538264003) |
-| 2026-09-06 | Forecast Signal | 已记录 | [@Gelassoldat @rezoundous 谁说它不会在一段时间后 reset 👀](https://x.com/thsottiaux/status/2096692394435752258) |
-| 2026-09-05 | Reset Announcement | 已记录 | [Because we are beyond happy to have Astra rolled out today ahead of schedule and you have been super patient with us (not really, but it’s ok!)… we will do the full banked reset today too for all Plus, Pro and Business users. Lands end of day. Happy Astra day and enjoy a phenome…](https://x.com/thsottiaux/status/2096035437299237298) |
+| 2026-11-26 | Reset Announcement | 已记录 | [Banked reset is online](https://x.com/thsottiaux/status/2125853628250599730) |
+| 2026-11-24 | Reset Announcement | 已记录 | [To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!](https://x.com/thsottiaux/status/2125299248782778588) |
+| 2026-11-12 | Reset Announcement | 已记录 | [We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon! https://t.co/Y7Mnp6Cuu1](https://x.com/thsottiaux/status/2120999993079451919) |
+| 2026-11-11 | Forecast Signal | 已记录 | [我觉得周四很有 Codex 味。或许也是个攒一次 reset 的好时机。](https://x.com/thsottiaux/status/2120410480204525936) |
+| 2026-11-01 | Reset Announcement | 已记录 | [Day 28/ Banked 2/2](https://x.com/thsottiaux/status/2117035794678546764) |
 
 <!-- LATEST_SIGNALS_END -->
 
