@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "product": "codex",
-  "generated_at": "2026-11-26T00:00:00.005Z",
+  "generated_at": "2026-11-26T07:39:39.398Z",
   "today": {
     "date_utc": "2026-11-26",
     "global_reset_recorded": false
@@ -18,13 +18,13 @@
     }
   },
   "latest_signal": {
-    "signal_id": "2125299248782778588",
+    "signal_id": "2125853628250599730",
     "signal_type": "reset_announcement",
-    "recorded_at": "2026-11-24T18:43:21.000Z",
-    "summary": "To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!",
+    "recorded_at": "2026-11-26T07:26:16.000Z",
+    "summary": "Banked reset is online",
     "source": {
       "label": "Tibo · @thsottiaux",
-      "url": "https://x.com/thsottiaux/status/2125299248782778588"
+      "url": "https://x.com/thsottiaux/status/2125853628250599730"
     }
   },
   "forecast": {

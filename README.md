@@ -54,11 +54,11 @@ Codex Reset Radar 持续跟踪 **Codex Global Reset、Banked Reset、公开 Rese
 
 | 日期 | 类型 | 状态 | 摘要 |
 | --- | --- | --- | --- |
+| 2026-11-26 | Reset Announcement | 已记录 | [Banked reset is online](https://x.com/thsottiaux/status/2125853628250599730) |
 | 2026-11-24 | Reset Announcement | 已记录 | [To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!](https://x.com/thsottiaux/status/2125299248782778588) |
 | 2026-11-12 | Reset Announcement | 已记录 | [We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon! https://t.co/Y7Mnp6Cuu1](https://x.com/thsottiaux/status/2120999993079451919) |
 | 2026-11-11 | Forecast Signal | 已记录 | [我觉得周四很有 Codex 味。或许也是个攒一次 reset 的好时机。](https://x.com/thsottiaux/status/2120410480204525936) |
 | 2026-11-01 | Reset Announcement | 已记录 | [Day 28/ Banked 2/2](https://x.com/thsottiaux/status/2117035794678546764) |
-| 2026-11-01 | Reset Announcement | 已记录 | [Banked 1/2](https://x.com/thsottiaux/status/2116692529970311254) |
 
 <!-- LATEST_SIGNALS_END -->
 
